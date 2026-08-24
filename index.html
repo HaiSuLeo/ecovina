@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ECOVINA – Tiện Ích Tối Đa | Giải Pháp Đồng Bộ Khách Sạn & Gia Đình</title>
+  <meta name="description" content="ECOVINA – Nhà cung cấp giải pháp sản phẩm đồng bộ cho khách sạn và gia đình. Hóa mỹ phẩm, thiết bị phòng, amenities, chăn ga gối, thùng rác, xe đẩy và nhiều hơn nữa." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#hero" class="nav-logo">
+        <div class="logo-icon">
+          <svg width="38" height="38" viewBox="0 0 38 38" fill="none">
+            <rect width="38" height="38" rx="8" fill="#1a6b3c"/>
+            <path d="M8 19 Q19 7 30 19 Q19 31 8 19Z" fill="none" stroke="#fff" stroke-width="2.5"/>
+            <path d="M19 8 L23 14 L19 30" fill="none" stroke="#f0c040" stroke-width="2.5" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="logo-text">
+          <span class="logo-name">ECOVINA</span>
+          <span class="logo-tagline">TIỆN ÍCH TỐI ĐA</span>
+        </div>
+      </a>
+
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#about" class="nav-link">Về chúng tôi</a></li>
+        <li><a href="#solutions" class="nav-link">Giải pháp</a></li>
+        <li><a href="#products" class="nav-link">Sản phẩm</a></li>
+        <li><a href="#why-ecovina" class="nav-link">Vì sao chọn</a></li>
+        <li><a href="#contact" class="nav-link nav-cta">Liên hệ</a></li>
+      </ul>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <div class="hero-bg-circles">
+      <div class="circle c1"></div>
+      <div class="circle c2"></div>
+      <div class="circle c3"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge animate-fade-up">🏨 Catalogue 2026</div>
+      <h1 class="hero-title animate-fade-up delay-1">
+        Giải Pháp Đồng Bộ<br/>
+        <span class="text-gradient">Khách Sạn &amp; Gia Đình</span>
+      </h1>
+      <p class="hero-desc animate-fade-up delay-2">
+        Ecovina – Đồng hành cùng giá trị bền vững. Nhà cung cấp sản phẩm đa dạng,
+        chất lượng kiểm soát chặt chẽ, dịch vụ tận tâm cho khách sạn và gia đình Việt.
+      </p>
+      <div class="hero-actions animate-fade-up delay-3">
+        <a href="#products" class="btn btn-primary">Khám phá sản phẩm</a>
+        <a href="#contact" class="btn btn-outline">Liên hệ ngay</a>
+      </div>
+      <div class="hero-stats animate-fade-up delay-4">
+        <div class="stat">
+          <span class="stat-num" data-target="21" data-suffix="+">21+</span>
+          <span class="stat-label">Nhóm sản phẩm</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" data-target="100" data-suffix="%">100%</span>
+          <span class="stat-label">Kiểm soát chất lượng</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" data-target="12" data-suffix="T">12T</span>
+          <span class="stat-label">Bảo hành thiết bị</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-image animate-slide-right delay-2">
+      <div class="hero-img-frame">
+        <img src="ecovina_images/page_01.png" alt="Ecovina Catalogue 2026" />
+        <div class="hero-img-badge">
+          <div class="hero-badge-title">CATALOGUE 2026 – TIỆN ÍCH TỐI ĐA</div>
+          <a href="/Ecovina_Catalogue_2026.pdf" download="Ecovina_Catalogue_2026.pdf" class="btn-download-catalog" target="_blank" title="Tải trọn bộ Catalogue Ecovina 2026 (51 trang PDF)">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            <span>Tải Catalogue PDF (51 trang)</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll">
+      <span>Cuộn xuống</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ABOUT / MISSION / VALUES -->
+  <section class="about section" id="about">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Về ECOVINA</span>
+        <h2 class="section-title">Sứ Mệnh &amp; Giá Trị Cốt Lõi</h2>
+        <p class="section-desc">Mang đến hệ sinh thái sản phẩm đồng bộ, an toàn, thân thiện và bền vững; giúp khách hàng tối ưu tiện ích, chi phí vận hành và trải nghiệm sử dụng.</p>
+      </div>
+
+      <div class="mission-grid">
+        <div class="mission-text">
+          <h3>Thư Ngỏ</h3>
+          <p>
+            Tên gọi ECOVINA – kết hợp giữa "Eco" (xanh, sạch, bền vững) và "Vina" (Việt Nam) –
+            gửi gắm mong muốn mang đến những sản phẩm an toàn, thân thiện và chất lượng,
+            đồng hành cùng đời sống của mỗi gia đình và doanh nghiệp Việt.
+          </p>
+          <p>
+            ECOVINA tự hào là nhà cung cấp uy tín trong lĩnh vực sản phẩm, dịch vụ đồng bộ cho khách sạn
+            và gia đình, đáp ứng đa dạng nhu cầu của khách hàng, đại lý và đối tác toàn quốc.
+          </p>
+          <div class="mission-commitments">
+            <div class="commitment"><div class="commitment-icon">✓</div><span>Chất lượng đặt lên hàng đầu</span></div>
+            <div class="commitment"><div class="commitment-icon">✓</div><span>Giá cả tốt, nhiều chính sách ưu đãi</span></div>
+            <div class="commitment"><div class="commitment-icon">✓</div><span>Chăm sóc tận tâm, hậu mãi chu đáo</span></div>
+          </div>
+          <div class="mission-sig">– BAN GIÁM ĐỐC ECOVINA</div>
+        </div>
+
+        <div class="values-grid">
+          <div class="value-card">
+            <div class="value-num">01</div>
+            <h4>Khách hàng là trung tâm</h4>
+            <p>Mọi hoạt động hướng tới giá trị thực và sự hài lòng cao nhất của khách hàng.</p>
+          </div>
+          <div class="value-card">
+            <div class="value-num">02</div>
+            <h4>Trách nhiệm &amp; tận tâm</h4>
+            <p>Mỗi thành viên đặt trách nhiệm, sự tận tâm và tinh thần phục vụ lên hàng đầu.</p>
+          </div>
+          <div class="value-card">
+            <div class="value-num">03</div>
+            <h4>Chất lượng là nền tảng</h4>
+            <p>Không ngừng cải tiến sản phẩm và dịch vụ để phát triển bền vững.</p>
+          </div>
+          <div class="value-card">
+            <div class="value-num">04</div>
+            <h4>Gắn kết lợi ích chung</h4>
+            <p>Gắn lợi ích của tập thể và cá nhân với khách hàng, đối tác để cùng phát triển.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SOLUTIONS OVERVIEW -->
+  <section class="solutions section" id="solutions">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Giải Pháp</span>
+        <h2 class="section-title">Giải Pháp Đồng Bộ</h2>
+        <p class="section-desc">Một đầu mối cung cấp – nhiều nhóm sản phẩm – tối ưu vận hành và trải nghiệm.</p>
+      </div>
+
+      <div class="solutions-grid">
+        <div class="solution-card" style="--delay:0s"><div class="sol-icon">🧴</div><h4>Hóa Mỹ Phẩm</h4><p>Bio Enzyme, hương lưu tuyển chọn – dầu xả, sữa tắm, dầu gội, nước rửa tay, nước giặt khách sạn</p></div>
+        <div class="solution-card" style="--delay:0.08s"><div class="sol-icon">🌸</div><h4>Hương Thơm</h4><p>Sáp thơm Clean Air, hạt nở thơm – khử mùi, lưu hương dịu nhẹ cho phòng khách và khu vệ sinh</p></div>
+        <div class="solution-card" style="--delay:0.16s"><div class="sol-icon">🧻</div><h4>Giấy Tiêu Dùng</h4><p>Giấy vệ sinh cuộn lớn (500g–900g), giấy ăn, giấy lau đa năng – 100% bột giấy nguyên sinh</p></div>
+        <div class="solution-card" style="--delay:0.24s"><div class="sol-icon">🗑️</div><h4>Túi Đựng Rác</h4><p>Công nghiệp và gia dụng – nhiều size 5–50kg, màu đen/xanh/vàng phân loại, nhựa dai chắc chắn</p></div>
+        <div class="solution-card" style="--delay:0.32s"><div class="sol-icon">💇</div><h4>Thiết Bị Phòng</h4><p>Máy sấy tóc gấp gọn Honeyson F21/F6, máy sấy gắn tường Yigao YG313D – bảo hành 12 tháng</p></div>
+        <div class="solution-card" style="--delay:0.4s"><div class="sol-icon">👘</div><h4>Amenities &amp; Dệt May</h4><p>Áo choàng bông, khăn thêu/dệt logo, dép khách sạn nhiều chất liệu, túi giặt là in logo theo yêu cầu</p></div>
+        <div class="solution-card" style="--delay:0.48s"><div class="sol-icon">🏺</div><h4>Bình Sứ &amp; Resin</h4><p>Bình sứ Bát Tràng nhiều kiểu dáng, bình resin cao cấp, bộ khay da khách sạn in logo theo yêu cầu</p></div>
+        <div class="solution-card" style="--delay:0.56s"><div class="sol-icon">🛏️</div><h4>Chăn Ga Gối</h4><p>Vải T300/T350/T400 – 100% cotton cao cấp, mật độ 293–388 sợi/inch, phù hợp khách sạn 3–5 sao</p></div>
+        <div class="solution-card" style="--delay:0.64s"><div class="sol-icon">🚮</div><h4>Thùng Rác &amp; Xe Đẩy</h4><p>Thùng rác inox, da cao cấp, bằng thép tĩnh điện 10L – xe đẩy vệ sinh, xe phục vụ phòng</p></div>
+        <div class="solution-card" style="--delay:0.72s"><div class="sol-icon">🔒</div><h4>Két Sắt &amp; Tiện Nghi</h4><p>Két sắt khách sạn, ấm siêu tốc, cân điện tử, bàn là – cầu là cho phòng khách sạn cao cấp</p></div>
+        <div class="solution-card" style="--delay:0.8s"><div class="sol-icon">🏨</div><h4>Đồ Dùng Đại Sảnh</h4><p>Trang bị đồng bộ khu vực đại sảnh, tiền sảnh, hành lang khách sạn – thẩm mỹ và tiện dụng</p></div>
+        <div class="solution-card" style="--delay:0.88s"><div class="sol-icon">🎨</div><h4>In Ấn &amp; Thêu Logo</h4><p>Nhận thiết kế và in/thêu logo theo yêu cầu trên toàn bộ sản phẩm – amenities, khăn, dép, túi</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCTS DETAIL -->
+  <section class="products section" id="products">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Sản Phẩm</span>
+        <h2 class="section-title">Danh Mục Sản Phẩm Chi Tiết</h2>
+        <p class="section-desc">Khám phá đầy đủ 21 nhóm sản phẩm – bấm vào sản phẩm để xem chi tiết</p>
+      </div>
+
+      <div class="category-tabs" id="categoryTabs">
+        <button class="tab-btn active" data-cat="all" id="tab-all">Tất cả</button>
+        <button class="tab-btn" data-cat="hoa-my-pham" id="tab-hmp">Hóa mỹ phẩm</button>
+        <button class="tab-btn" data-cat="thiet-bi" id="tab-tb">Thiết bị phòng</button>
+        <button class="tab-btn" data-cat="det-may" id="tab-dm">Dệt may</button>
+        <button class="tab-btn" data-cat="gom-su" id="tab-gs">Gốm sứ &amp; Resin</button>
+        <button class="tab-btn" data-cat="gian-phong" id="tab-gp">Vận hành phòng</button>
+        <button class="tab-btn" data-cat="chan-ga" id="tab-cg">Chăn ga gối</button>
+      </div>
+
+      <!-- Products rendered by JS from products.json -->
+      <div class="products-grid" id="productsGrid">
+        <div class="loading-state" id="loadingState">
+          <div class="loading-spinner"></div>
+          <p>Đang tải danh mục sản phẩm...</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY ECOVINA -->
+  <section class="why-section section" id="why-ecovina">
+    <div class="why-bg"></div>
+    <div class="container">
+      <div class="section-header light">
+        <span class="section-tag light">Năng lực phục vụ</span>
+        <h2 class="section-title">Vì Sao Chọn ECOVINA?</h2>
+        <p class="section-desc">Từ lựa chọn sản phẩm đến giao hàng và hậu mãi</p>
+      </div>
+      <div class="why-grid">
+        <div class="why-card"><div class="why-num">01</div><div class="why-icon">📋</div><h4>Danh Mục Đồng Bộ</h4><p>Một đầu mối đáp ứng nhiều nhóm sản phẩm cho khách sạn và gia đình – tiết kiệm thời gian và chi phí đàm phán.</p></div>
+        <div class="why-card"><div class="why-num">02</div><div class="why-icon">🔍</div><h4>Chất Lượng Kiểm Soát</h4><p>Sản phẩm được tuyển chọn kỹ, nguồn gốc rõ ràng, phù hợp nhu cầu thực tế – an toàn, bền đẹp, tiết kiệm chi phí vận hành.</p></div>
+        <div class="why-card"><div class="why-num">03</div><div class="why-icon">⚙️</div><h4>Quy Cách Linh Hoạt</h4><p>Tư vấn dung tích, chất liệu, màu sắc, thiết kế và in/thêu logo theo yêu cầu riêng của từng khách sạn.</p></div>
+        <div class="why-card"><div class="why-num">04</div><div class="why-icon">💝</div><h4>Dịch Vụ Tận Tâm</h4><p>Chính sách cạnh tranh, giao hàng nhanh chóng và hậu mãi chu đáo – sẵn sàng đồng hành lâu dài cùng Quý khách hàng.</p></div>
+      </div>
+      <div class="why-quote">
+        <blockquote>"Chất lượng làm nên uy tín – Tận tâm giữ trọn niềm tin"</blockquote>
+        <cite>– ECOVINA</cite>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact section" id="contact">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Liên hệ</span>
+        <h2 class="section-title">Kết Nối Cùng ECOVINA</h2>
+        <p class="section-desc">Nhà cung cấp giải pháp sản phẩm đồng bộ cho khách sạn và gia đình.</p>
+      </div>
+      <div class="contact-wrapper">
+        <div class="contact-info">
+          <div class="contact-brand">
+            <div class="contact-logo">
+              <svg width="56" height="56" viewBox="0 0 56 56" fill="none">
+                <rect width="56" height="56" rx="12" fill="#1a6b3c"/>
+                <path d="M12 28 Q28 10 44 28 Q28 46 12 28Z" fill="none" stroke="#fff" stroke-width="3"/>
+                <path d="M28 11 L34 21 L28 45" fill="none" stroke="#f0c040" stroke-width="3" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <div>
+              <div class="contact-brand-name">ECOVINA</div>
+              <div class="contact-brand-tag">TIỆN ÍCH TỐI ĐA</div>
+            </div>
+          </div>
+          <p class="contact-company">CÔNG TY TNHH TM &amp; PHÁT TRIỂN CÔNG NGHỆ ECOVINA</p>
+          <div class="contact-items">
+            <div class="contact-item">
+              <div class="contact-item-icon">📞</div>
+              <div>
+                <div class="contact-item-label">Hotline</div>
+                <a href="tel:0943195687" class="contact-item-val">0943 195 687</a>
+                <span class="contact-item-sep"> | </span>
+                <a href="tel:0344149349" class="contact-item-val">0344 149 349</a>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="contact-item-icon">✉️</div>
+              <div>
+                <div class="contact-item-label">Email</div>
+                <a href="mailto:Groupecovina@gmail.com" class="contact-item-val">Groupecovina@gmail.com</a>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="contact-item-icon">🌐</div>
+              <div>
+                <div class="contact-item-label">Website</div>
+                <a href="https://ecovinagroup.com.vn" target="_blank" rel="noopener" class="contact-item-val">ecovinagroup.com.vn</a>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="contact-item-icon">📍</div>
+              <div>
+                <div class="contact-item-label">Địa chỉ</div>
+                <span class="contact-item-val">Số 10, ngõ 22 Đỗ Quang, Yên Hòa, Hà Nội</span>
+              </div>
+            </div>
+          </div>
+          <div class="contact-actions">
+            <a href="tel:0943195687" class="btn btn-primary" id="btn-call">Gọi ngay</a>
+            <a href="mailto:Groupecovina@gmail.com" class="btn btn-outline-dark" id="btn-email">Gửi Email</a>
+          </div>
+        </div>
+
+        <div class="contact-form-wrap">
+          <h3>Gửi yêu cầu tư vấn</h3>
+          <form class="contact-form" id="contactForm">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="name">Họ và tên *</label>
+                <input type="text" id="name" name="name" placeholder="Nguyễn Văn A" required />
+              </div>
+              <div class="form-group">
+                <label for="phone">Số điện thoại *</label>
+                <input type="tel" id="phone" name="phone" placeholder="0xxx xxx xxx" required />
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" placeholder="email@example.com" />
+            </div>
+            <div class="form-group">
+              <label for="product">Sản phẩm quan tâm</label>
+              <select id="product" name="product">
+                <option value="">-- Chọn nhóm sản phẩm --</option>
+                <option value="Dung Dịch Chăm Sóc & Giặt Là Sufor">Hóa mỹ phẩm – Dung dịch Sufor 10L</option>
+                <option value="Dung Dịch Làm Sạch Toàn Diện Sufor">Hóa mỹ phẩm – Làm sạch toàn diện Sufor</option>
+                <option value="Sáp Thơm & Hạt Nở Thơm Clean Air">Hương thơm – Sáp thơm Clean Air</option>
+                <option value="Giấy Vệ Sinh Việt Sơn Lâm">Giấy tiêu dùng – Giấy vệ sinh cuộn lớn / gói</option>
+                <option value="Giấy Ăn & Giấy Lau Việt Sơn Lâm">Giấy tiêu dùng – Giấy ăn & Giấy lau</option>
+                <option value="Túi Đựng Rác Công Nghiệp">Vận hành phòng – Túi đựng rác</option>
+                <option value="Máy Sấy Tóc Gấp Gọn Honeyson">Thiết bị phòng – Máy sấy tóc Honeyson</option>
+                <option value="Máy Sấy Tóc Gắn Tường Yigao YG313D">Thiết bị phòng – Máy sấy tóc gắn tường Yigao</option>
+                <option value="Khăn & Áo Choàng Khách Sạn">Dệt may – Khăn & Áo choàng khách sạn</option>
+                <option value="Dép Khách Sạn & Túi Giặt Là">Dệt may – Dép khách sạn & Túi giặt là</option>
+                <option value="Bộ Amenities Khách Sạn">Amenities – Bộ amenities in logo</option>
+                <option value="Bình Sứ Bát Tràng Đựng Dung Dịch">Gốm sứ Bát Tràng – Bình đựng dung dịch</option>
+                <option value="Bộ Khay Da Khách Sạn">Khay da cao cấp – Bộ đồ da khách sạn</option>
+                <option value="Thùng Rác Khách Sạn Cao Cấp">Vận hành phòng – Thùng rác khách sạn</option>
+                <option value="Chăn Ga Gối Khách Sạn">Chăn ga gối khách sạn</option>
+                <option value="Két sắt & Ấm siêu tốc">Thiết bị phòng – Két sắt & Ấm siêu tốc</option>
+                <option value="Tư vấn toàn bộ danh mục">Tư vấn toàn bộ danh mục giải pháp</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="message">Nội dung yêu cầu</label>
+              <textarea id="message" name="message" rows="4" placeholder="Mô tả nhu cầu của bạn (số lượng, quy cách, in/thêu logo...)"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-full" id="submitBtn">Gửi yêu cầu tư vấn</button>
+          </form>
+          <div class="form-success" id="formSuccess" style="display:none">
+            <div class="success-icon">✅</div>
+            <h4>Gửi thành công!</h4>
+            <p>Ecovina sẽ liên hệ lại với bạn trong thời gian sớm nhất. Cảm ơn bạn đã quan tâm!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+              <rect width="40" height="40" rx="8" fill="#1a6b3c"/>
+              <path d="M8 20 Q20 8 32 20 Q20 32 8 20Z" fill="none" stroke="#fff" stroke-width="2.5"/>
+              <path d="M20 9 L25 16 L20 31" fill="none" stroke="#f0c040" stroke-width="2.5" stroke-linecap="round"/>
+            </svg>
+            <div>
+              <div class="footer-brand-name">ECOVINA</div>
+              <div class="footer-brand-tag">TIỆN ÍCH TỐI ĐA</div>
+            </div>
+          </div>
+          <p>Giải pháp sản phẩm đồng bộ cho khách sạn và gia đình. Đồng hành cùng giá trị bền vững.</p>
+        </div>
+        <div class="footer-links">
+          <div class="footer-col">
+            <h5>Sản phẩm</h5>
+            <ul>
+              <li><a href="#products">Hóa mỹ phẩm Sufor</a></li>
+              <li><a href="#products">Giấy tiêu dùng</a></li>
+              <li><a href="#products">Máy sấy tóc</a></li>
+              <li><a href="#products">Amenities khách sạn</a></li>
+              <li><a href="#products">Bình sứ Bát Tràng</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h5>Dệt may &amp; Tiện nghi</h5>
+            <ul>
+              <li><a href="#products">Khăn &amp; Áo choàng</a></li>
+              <li><a href="#products">Dép &amp; Túi giặt là</a></li>
+              <li><a href="#products">Chăn ga gối</a></li>
+              <li><a href="#products">Khay da &amp; Thùng rác</a></li>
+              <li><a href="#products">Két sắt &amp; Ấm siêu tốc</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h5>Liên hệ</h5>
+            <ul>
+              <li><a href="tel:0943195687">📞 0943 195 687</a></li>
+              <li><a href="tel:0344149349">📞 0344 149 349</a></li>
+              <li><a href="mailto:Groupecovina@gmail.com">✉ Groupecovina@gmail.com</a></li>
+              <li><a href="https://ecovinagroup.com.vn" target="_blank">🌐 ecovinagroup.com.vn</a></li>
+              <li><span>📍 Số 10, ngõ 22 Đỗ Quang, Yên Hòa, HN</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© 2026 Công ty TNHH TM &amp; Phát triển Công nghệ ECOVINA. All rights reserved.</p>
+        <p>Giải pháp sản phẩm đồng bộ cho khách sạn và gia đình – Tiện Ích Tối Đa</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- SCROLL TO TOP -->
+  <button class="scroll-top" id="scrollTop" aria-label="Scroll to top">↑</button>
+
+  <!-- PRODUCT DETAIL MODAL -->
+  <div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modalClose" aria-label="Đóng">✕</button>
+      <div class="modal-inner" id="modalInner">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- LIGHTBOX / IMAGE VIEWER -->
+  <div class="lightbox-overlay" id="lightboxOverlay" role="dialog" aria-modal="true" aria-label="Xem ảnh phóng to">
+    <div class="lightbox-container">
+      <button class="lightbox-close" id="lightboxClose" aria-label="Đóng ảnh phóng to">✕</button>
+      <button class="lightbox-nav-btn prev" id="lightboxPrev" aria-label="Xem mẫu trước">❮</button>
+      <button class="lightbox-nav-btn next" id="lightboxNext" aria-label="Xem mẫu tiếp theo">❯</button>
+      <div class="lightbox-content">
+        <img src="" alt="" id="lightboxImg" class="lightbox-img" />
+        <div class="lightbox-caption" id="lightboxCaption"></div>
+        <div class="lightbox-counter" id="lightboxCounter"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="/script.js"></script>
+</body>
+</html>

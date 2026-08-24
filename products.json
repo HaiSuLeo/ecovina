@@ -1,0 +1,798 @@
+[
+  {
+    "id": "sufor-cham-soc",
+    "name": "Dung Dịch Chăm Sóc & Giặt Là Sufor",
+    "category": "hoa-my-pham",
+    "categoryLabel": "Hóa mỹ phẩm",
+    "image": "ecovina_images/page_04.png",
+    "shortDesc": "Bộ sản phẩm dung tích lớn 10L dành cho khách sạn, spa, cơ sở lưu trú.",
+    "features": [
+      "Bio Enzyme",
+      "Dịu nhẹ",
+      "Dung tích 10L"
+    ],
+    "details": {
+      "intro": "Giải pháp dung tích lớn cho khách sạn, spa, cơ sở lưu trú và khu dịch vụ. Công nghệ Bio Enzyme hỗ trợ làm sạch sâu nhưng vẫn dịu với da tay.",
+      "products": [
+        {
+          "name": "Dầu Xả Sufor",
+          "desc": "Chăm sóc tóc – hương lưu tuyển chọn",
+          "image": "ecovina_images/items/sufor_dauxa.png"
+        },
+        {
+          "name": "Sữa Tắm Sufor",
+          "desc": "Làm sạch dịu nhẹ cho da",
+          "image": "ecovina_images/items/sufor_suatam.png"
+        },
+        {
+          "name": "Dầu Gội Sufor",
+          "desc": "Chăm sóc tóc hằng ngày",
+          "image": "ecovina_images/items/sufor_daugoi.png"
+        },
+        {
+          "name": "Nước Rửa Tay Sufor",
+          "desc": "Khu vực công cộng",
+          "image": "ecovina_images/items/sufor_ruatay.png"
+        },
+        {
+          "name": "Nước Giặt Khách Sạn Sufor",
+          "desc": "Giặt là chuyên dụng 10L",
+          "image": "ecovina_images/items/sufor_nuocgiat.png"
+        }
+      ],
+      "highlights": [
+        "Công nghệ Bio Enzyme hỗ trợ làm sạch sâu nhưng vẫn dịu với da tay",
+        "Hương lưu tuyển chọn, tạo cảm giác sạch và dễ chịu",
+        "Có thể tự vận dung tích, nhãn và quy cách theo mô hình vận hành"
+      ],
+      "contact": "Liên hệ để được tư vấn dung tích, nhãn hiệu và quy cách đặt hàng."
+    }
+  },
+  {
+    "id": "sufor-lam-sach",
+    "name": "Dung Dịch Làm Sạch Toàn Diện Sufor",
+    "category": "hoa-my-pham",
+    "categoryLabel": "Hóa mỹ phẩm",
+    "image": "ecovina_images/page_05.png",
+    "shortDesc": "Bộ sản phẩm cốt lõi cho kính, sàn, khu bếp và khu vệ sinh.",
+    "features": [
+      "Hương chanh tươi mát",
+      "Tẩy sạch sâu",
+      "An toàn"
+    ],
+    "details": {
+      "intro": "Bộ 4 sản phẩm làm sạch chuyên nghiệp, đáp ứng đầy đủ nhu cầu vệ sinh không gian khách sạn, nhà hàng và gia đình.",
+      "products": [
+        {
+          "name": "Nước Lau Kính",
+          "desc": "Hỗ trợ bề mặt kính sáng bóng, hạn chế vết sau lau",
+          "image": "ecovina_images/items/sufor_laukinh.png"
+        },
+        {
+          "name": "Nước Rửa Chén Bát",
+          "desc": "Làm sạch dầu mỡ, hương chanh tươi mát",
+          "image": "ecovina_images/items/sufor_ruachen.png"
+        },
+        {
+          "name": "Nước Lau Sàn",
+          "desc": "Làm sạch không gian, lưu hương nhẹ và dễ chịu",
+          "image": "ecovina_images/items/sufor_lausan.png"
+        },
+        {
+          "name": "Nước Cọ Bồn Cầu",
+          "desc": "Làm sạch khu vực toilet, hỗ trợ duy trì vệ sinh định kỳ",
+          "image": "ecovina_images/items/sufor_coboncau.png"
+        }
+      ],
+      "highlights": [
+        "Hương chanh tươi mát, dễ chịu khi sử dụng",
+        "Tẩy sạch dầu mỡ và vết bẩn cứng đầu hiệu quả",
+        "An toàn với người dùng và bề mặt"
+      ],
+      "contact": "Liên hệ để tư vấn combo làm sạch phù hợp với diện tích và nhu cầu."
+    }
+  },
+  {
+    "id": "sap-thom-clean-air",
+    "name": "Sáp Thơm & Hạt Nở Thơm Clean Air",
+    "category": "hoa-my-pham",
+    "categoryLabel": "Hương thơm",
+    "image": "ecovina_images/page_05.png",
+    "imageStyle": "object-position: right center",
+    "shortDesc": "Khử mùi, lưu hương dịu nhẹ cho phòng khách và khu vệ sinh.",
+    "features": [
+      "Nhiều mùi hương",
+      "Phòng & vệ sinh",
+      "Lưu hương lâu"
+    ],
+    "details": {
+      "intro": "Hai lựa chọn linh hoạt cho phòng khách, nhà vệ sinh và xe – thơm dịu, gọn gàng và dễ bảo trì.",
+      "products": [
+        {
+          "name": "Sáp Thơm Clean Air",
+          "desc": "Khử mùi, lưu hương dịu nhẹ – Định lượng 180g",
+          "image": "ecovina_images/items/sap_cleanair.png"
+        },
+        {
+          "name": "Hạt Nở Thơm",
+          "desc": "Dạng hạt lưu hương trong hộp – Nhiều lựa chọn hương",
+          "image": "ecovina_images/items/hat_nothom.png"
+        }
+      ],
+      "highlights": [
+        "Khử mùi, lưu hương dịu nhẹ",
+        "Nhiều lựa chọn hương phù hợp theo sở thích",
+        "Phù hợp phòng và khu vệ sinh"
+      ],
+      "contact": "Liên hệ để đặt mẫu thử hoặc đặt số lượng lớn."
+    }
+  },
+  {
+    "id": "giay-ve-sinh",
+    "name": "Giấy Vệ Sinh Việt Sơn Lâm",
+    "category": "hoa-my-pham",
+    "categoryLabel": "Giấy tiêu dùng",
+    "image": "ecovina_images/page_06.png",
+    "shortDesc": "Cuộn lớn 500g – 900g, 3 lớp. 100% bột giấy nguyên sinh.",
+    "features": [
+      "6 quy cách",
+      "100% nguyên sinh",
+      "Phù hợp khách sạn"
+    ],
+    "details": {
+      "intro": "Đa dạng trọng lượng và quy cách, phù hợp khách sạn, văn phòng và khu vực công cộng. Sản xuất trên dây chuyền hiện đại nhập khẩu 100%.",
+      "products": [
+        {
+          "name": "Cuộn Lớn 500g – 3 lớp",
+          "desc": "Gói lẻ tiện dụng",
+          "image": "ecovina_images/items/giay_cuon500g.png"
+        },
+        {
+          "name": "Cuộn Lớn 600g – 3 lớp",
+          "desc": "Gói lẻ tiện dụng",
+          "image": "ecovina_images/items/giay_cuon600g.png"
+        },
+        {
+          "name": "Cuộn Lớn 700g – 3 lớp",
+          "desc": "Gói lẻ tiện dụng",
+          "image": "ecovina_images/items/giay_cuon700g.png"
+        },
+        {
+          "name": "Cuộn Lớn 900g – 3 lớp",
+          "desc": "Gói lẻ tiện dụng",
+          "image": "ecovina_images/items/giay_cuon900g.png"
+        },
+        {
+          "name": "10 Cuộn Có Lõi",
+          "desc": "Gói tiện dụng",
+          "image": "ecovina_images/items/giay_10cuon_coloi.png"
+        },
+        {
+          "name": "10 Cuộn Không Lõi",
+          "desc": "Gói tiện dụng",
+          "image": "ecovina_images/items/giay_10cuon_kloi.png"
+        }
+      ],
+      "highlights": [
+        "100% bột giấy nguyên sinh, nguyên chất",
+        "Sản xuất trên dây chuyền hiện đại nhập khẩu 100%",
+        "Nhiều quy cách đáp ứng khách sạn, gia đình và khu vực công cộng"
+      ],
+      "contact": "Liên hệ để đặt hàng số lượng lớn với giá ưu đãi."
+    }
+  },
+  {
+    "id": "giay-an-lau",
+    "name": "Giấy Ăn & Giấy Lau Việt Sơn Lâm",
+    "category": "hoa-my-pham",
+    "categoryLabel": "Giấy tiêu dùng",
+    "image": "ecovina_images/page_06.png",
+    "imageStyle": "object-position: right center",
+    "shortDesc": "Giấy lau đa năng, giấy ăn, giấy lau tay – phù hợp nhà hàng, bếp.",
+    "features": [
+      "Mềm mại",
+      "Nhà hàng",
+      "Nguyên sinh"
+    ],
+    "details": {
+      "intro": "Giải pháp sạch, gọn và đồng bộ cho nhà hàng, bếp, phòng khách và khu rửa tay. 100% bột giấy nguyên sinh, nguyên chất.",
+      "products": [
+        {
+          "name": "Giấy Lau Đa Năng",
+          "desc": "Bích 100 tờ – mềm mại và thấm hút tốt",
+          "image": "ecovina_images/items/giay_laudanang.png"
+        },
+        {
+          "name": "Giấy Gấp Rút Phờ",
+          "desc": "Tiện dụng khi phục vụ",
+          "image": "ecovina_images/items/giay_gaprutpho.png"
+        },
+        {
+          "name": "Giấy Ăn",
+          "desc": "Mềm mại và lịch sự",
+          "image": "ecovina_images/items/giay_an.png"
+        },
+        {
+          "name": "Giấy Lau Tay",
+          "desc": "Phù hợp khu vực công cộng",
+          "image": "ecovina_images/items/giay_lautay.png"
+        }
+      ],
+      "highlights": [
+        "100% bột giấy nguyên sinh",
+        "Phù hợp nhiều môi trường sử dụng: nhà hàng, bếp, công cộng",
+        "Giá ưu đãi cho đơn hàng số lượng lớn"
+      ],
+      "contact": "Liên hệ để được báo giá theo số lượng."
+    }
+  },
+  {
+    "id": "tui-dung-rac",
+    "name": "Túi Đựng Rác Công Nghiệp",
+    "category": "gian-phong",
+    "categoryLabel": "Vận hành phòng",
+    "image": "ecovina_images/page_07.png",
+    "shortDesc": "Loại có quai & không quai. Nhựa dai, chắc chắn. Nhiều size 5–50kg.",
+    "features": [
+      "Dai chắc",
+      "Nhiều size",
+      "3 màu phân loại"
+    ],
+    "details": {
+      "intro": "Túi đựng rác công nghiệp phù hợp khách sạn, nhà hàng và khu công nghiệp. Nhựa dai, chắc chắn, không rách.",
+      "products": [
+        {
+          "name": "Túi Có Quai",
+          "desc": "Tiện lợi khi mang vác",
+          "image": "ecovina_images/items/tui_rac_congnghiep.png"
+        },
+        {
+          "name": "Túi Không Quai",
+          "desc": "Tiết kiệm không gian lưu trữ",
+          "image": "ecovina_images/items/tui_rac_cacloai.png"
+        },
+        {
+          "name": "Túi Cuộn / Túi Rời",
+          "desc": "Nhiều lựa chọn đóng gói",
+          "image": "ecovina_images/items/tui_rac_cacloai.png"
+        }
+      ],
+      "highlights": [
+        "Nhựa dai, chắc chắn, không rách",
+        "Nhiều size: 5kg / 10kg / 20kg / 30kg / 50kg",
+        "Màu đen, xanh, vàng – phân loại rác tiện lợi",
+        "Đóng gói theo kg, giao hàng số lượng lớn",
+        "Giá tốt cho khách sạn & khu công nghiệp"
+      ],
+      "contact": "Liên hệ để đặt hàng theo kg, số lượng lớn giá ưu đãi."
+    }
+  },
+  {
+    "id": "may-say-toc-honeyson",
+    "name": "Máy Sấy Tóc Gấp Gọn Honeyson",
+    "category": "thiet-bi",
+    "categoryLabel": "Thiết bị phòng",
+    "image": "ecovina_images/page_08.png",
+    "shortDesc": "Honeyson F21 (1600W) & F6 (1400W) – gấp gọn tiện dụng, bảo hành 12 tháng.",
+    "features": [
+      "1400–1600W",
+      "Tiếng ồn nhỏ",
+      "Bảo hành 12T"
+    ],
+    "details": {
+      "intro": "Máy sấy tóc gấp gọn chuyên dụng cho phòng khách sạn. Thiết kế gấp gọn tiện sử dụng, đầu nắp tròn tháo rời được.",
+      "products": [
+        {
+          "name": "Honeyson F21",
+          "desc": "Mã: F21 | Công suất: 1600W | Điện áp: 220–240V | KT: 12.6×7.8×20cm | 2 mức nhiệt | ABS cao cấp, không mùi | Động cơ AC ổn định, tiếng ồn nhỏ | Bảo hành 12 tháng",
+          "image": "ecovina_images/items/honeyson_f21.png"
+        },
+        {
+          "name": "Honeyson F6",
+          "desc": "Mã: F6 | Công suất: 1400W | Điện áp: 220V–50Hz | KT: 15.5×7.7×20cm | 3 mức nhiệt | ABS cao cấp, không mùi | Máy chạy êm, bền bỉ, tiết kiệm điện | Bảo hành 12 tháng",
+          "image": "ecovina_images/items/honeyson_f6.png"
+        }
+      ],
+      "highlights": [
+        "Thiết kế gấp gọn tiện sử dụng trong phòng khách sạn",
+        "Đầu nắp tròn tháo rời được",
+        "Chất liệu Nhựa ABS cao cấp, không mùi",
+        "Bảo hành 12 tháng"
+      ],
+      "contact": "Liên hệ để đặt số lượng và được hỗ trợ lắp đặt."
+    }
+  },
+  {
+    "id": "may-say-toc-yigao",
+    "name": "Máy Sấy Tóc Gắn Tường Yigao YG313D",
+    "category": "thiet-bi",
+    "categoryLabel": "Thiết bị phòng",
+    "image": "ecovina_images/page_09.png",
+    "shortDesc": "Thiết kế treo tường gọn gàng – 1000W, 220–240V. Bảo hành 12 tháng.",
+    "features": [
+      "Gắn tường",
+      "1000W",
+      "Màu trắng"
+    ],
+    "details": {
+      "intro": "Máy sấy tóc gắn tường chuyên dụng cho phòng tắm khách sạn – tiết kiệm không gian, thẩm mỹ cao.",
+      "products": [
+        {
+          "name": "Yigao YG313D",
+          "desc": "Mã: YG313D | Công suất: 1000W | Điện áp: 220–240V | KT: L15.5×W9.1×H21cm | 2 mức nhiệt | ABS cao cấp, không mùi | Không có ổ cắm phụ | Ổ cắm 2 chấu | Bảo hành 12 tháng",
+          "image": "ecovina_images/items/yigao_yg313d.png"
+        }
+      ],
+      "highlights": [
+        "Thiết kế treo tường gọn gàng, phù hợp phòng tắm khách sạn",
+        "Điều chỉnh nhiệt độ 2 mức",
+        "Chất liệu Nhựa ABS cao cấp, không mùi",
+        "Không có ổ cắm phụ – an toàn hơn",
+        "Bảo hành 12 tháng"
+      ],
+      "contact": "Liên hệ để tư vấn số lượng và hỗ trợ lắp đặt gắn tường."
+    }
+  },
+  {
+    "id": "khan-ao-choang",
+    "name": "Khăn & Áo Choàng Khách Sạn",
+    "category": "det-may",
+    "categoryLabel": "Dệt may",
+    "image": "ecovina_images/page_10.png",
+    "shortDesc": "Khăn thêu/dệt logo, khăn trơn, áo choàng bông – thiết kế theo yêu cầu.",
+    "features": [
+      "Thêu/In logo",
+      "Bể bơi & SPA",
+      "Theo yêu cầu"
+    ],
+    "details": {
+      "intro": "Bộ sưu tập khăn và áo choàng cao cấp dành cho khách sạn, resort và SPA – thiết kế và thêu logo theo yêu cầu riêng.",
+      "products": [
+        {
+          "name": "Khăn Thêu Logo",
+          "desc": "Thiết kế logo nổi bật, sang trọng",
+          "image": "ecovina_images/items/khan_theulogo.png"
+        },
+        {
+          "name": "Khăn Dệt Logo",
+          "desc": "Logo được dệt trực tiếp vào vải",
+          "image": "ecovina_images/items/khan_detlogo.png"
+        },
+        {
+          "name": "Khăn Trơn",
+          "desc": "Trắng tinh, phù hợp khách sạn mọi phân khúc",
+          "image": "ecovina_images/items/khan_tron.png"
+        },
+        {
+          "name": "Khăn Màu Bể Bơi/SPA",
+          "desc": "Màu sắc đặc trưng theo yêu cầu",
+          "image": "ecovina_images/items/khan_beboi_spa.png"
+        },
+        {
+          "name": "Thảm Chân",
+          "desc": "Mềm mại, thấm hút tốt",
+          "image": "ecovina_images/items/tham_chan.png"
+        },
+        {
+          "name": "Khăn Quà Tặng",
+          "desc": "Đóng gói đẹp, phù hợp làm quà",
+          "image": "ecovina_images/items/khan_quatang.png"
+        },
+        {
+          "name": "Áo Choàng Bông",
+          "desc": "Sang trọng, mềm mại",
+          "image": "ecovina_images/items/aochoang_bong.png"
+        },
+        {
+          "name": "Áo Choàng Hoạ Tiết Theo Yêu Cầu",
+          "desc": "Thiết kế độc đáo theo thương hiệu",
+          "image": "ecovina_images/items/aochoang_hoatiet.png"
+        },
+        {
+          "name": "Áo Choàng Tổ Ong",
+          "desc": "Chất liệu đặc biệt, thoáng mát",
+          "image": "ecovina_images/items/aochoang_toong.png"
+        },
+        {
+          "name": "Áo Choàng Tắm Nhiều Màu",
+          "desc": "Đa dạng màu sắc theo phân khu",
+          "image": "ecovina_images/items/aochoang_nhieumau.png"
+        }
+      ],
+      "highlights": [
+        "Thiết kế và thêu logo theo yêu cầu riêng của từng khách sạn",
+        "Đa dạng chất liệu và màu sắc",
+        "Phù hợp khách sạn, resort, SPA và bể bơi"
+      ],
+      "contact": "Liên hệ để gửi mẫu thiết kế và nhận báo giá."
+    }
+  },
+  {
+    "id": "dep-tui-giat",
+    "name": "Dép Khách Sạn & Túi Giặt Là",
+    "category": "det-may",
+    "categoryLabel": "Dệt may",
+    "image": "ecovina_images/page_11.png",
+    "shortDesc": "Dép nhiều chất liệu, túi giặt là in logo – sản xuất & phân phối giá gốc.",
+    "features": [
+      "Nhiều chất liệu",
+      "In logo",
+      "Giá gốc"
+    ],
+    "details": {
+      "intro": "Dép vải kín mũi, hở mũi. Đủ chất liệu, màu sắc. Ecovina nhận sản xuất theo yêu cầu. Túi giặt là sản xuất và phân phối giá gốc.",
+      "products": [
+        {
+          "name": "Dép Vải Tổ Ong Kín Mũi",
+          "desc": "Mềm mại, thoáng khí",
+          "image": "ecovina_images/items/dep_toong_kinmui.png"
+        },
+        {
+          "name": "Dép Vải Terry Kín Mũi",
+          "desc": "Chất liệu khăn bông cao cấp",
+          "image": "ecovina_images/items/dep_terry_kinmui.png"
+        },
+        {
+          "name": "Dép Vải Tricot Thái Cao Hở Mũi",
+          "desc": "Phong cách spa thư giãn",
+          "image": "ecovina_images/items/dep_tricot_homui.png"
+        },
+        {
+          "name": "Dép Vải 1 Lần Vải Lanh",
+          "desc": "Tiết kiệm, dùng 1 lần",
+          "image": "ecovina_images/items/dep_1lan_vailanh.png"
+        },
+        {
+          "name": "Dép Vải 1 Lần Vải Không Dệt",
+          "desc": "Tiết kiệm, dùng 1 lần",
+          "image": "ecovina_images/items/dep_1lan_khongdet.png"
+        },
+        {
+          "name": "Dép Khách Sạn EVA Hở Mũi",
+          "desc": "Nhẹ, bền, dễ vệ sinh",
+          "image": "ecovina_images/items/dep_eva_homui.png"
+        },
+        {
+          "name": "Dép Tông Quai Nhám/Quai Trong",
+          "desc": "Bền chắc, nhiều màu",
+          "image": "ecovina_images/items/dep_tong_nham.png"
+        },
+        {
+          "name": "Dép Xốp Khách Sạn Siêu Nhẹ",
+          "desc": "Nhẹ và tiện dụng",
+          "image": "ecovina_images/items/dep_xop_sieunhe.png"
+        },
+        {
+          "name": "Túi Giặt Là Vải Không Dệt",
+          "desc": "Size 35×50cm, 40×60cm",
+          "image": "ecovina_images/items/tui_giat_khongdet.png"
+        },
+        {
+          "name": "Túi Giặt Là Nilon Quai Xách",
+          "desc": "20×30, 25×35, 30×42, 35×50cm",
+          "image": "ecovina_images/items/tui_giat_nilon.png"
+        },
+        {
+          "name": "Túi Vệ Sinh Tự Huỷ",
+          "desc": "10×25cm hoặc kích thước riêng",
+          "image": "ecovina_images/items/tui_vesinh_tuhuy.png"
+        }
+      ],
+      "highlights": [
+        "Dép vải kín mũi, hở mũi – đầy đủ chất liệu, màu sắc",
+        "Ecovina nhận sản xuất theo yêu cầu",
+        "Túi giặt là: thiết kế và in logo theo yêu cầu",
+        "Sản xuất & phân phối giá gốc"
+      ],
+      "contact": "Liên hệ để đặt mẫu thử và báo giá theo số lượng."
+    }
+  },
+  {
+    "id": "amenities",
+    "name": "Bộ Amenities Khách Sạn",
+    "category": "det-may",
+    "categoryLabel": "Amenities",
+    "image": "ecovina_images/page_12.png",
+    "shortDesc": "Bộ hộp in logo 4 kiểu (navy, kraft, đen, trắng) – đầy đủ cho 3–5 sao.",
+    "features": [
+      "3–5 sao",
+      "4 kiểu hộp",
+      "In logo"
+    ],
+    "details": {
+      "intro": "Bộ amenities khách sạn đầy đủ – nhận in logo theo yêu cầu của từng thương hiệu khách sạn.",
+      "products": [
+        {
+          "name": "Bộ Amenities Hộp In Logo (Xanh Navy)",
+          "desc": "Sang trọng, phù hợp khách sạn 4–5 sao",
+          "image": "ecovina_images/items/amenities_hop_inlogo.png"
+        },
+        {
+          "name": "Bộ Amenities Hộp Kraft In Logo",
+          "desc": "Thân thiện môi trường, phong cách tự nhiên",
+          "image": "ecovina_images/items/amenities_hop_kraft.png"
+        },
+        {
+          "name": "Bộ Amenities Hộp Đen In Logo",
+          "desc": "Tối giản, cao cấp",
+          "image": "ecovina_images/items/amenities_hop_den.png"
+        },
+        {
+          "name": "Bộ Amenities Hộp Trắng In Logo",
+          "desc": "Thanh lịch, phù hợp mọi phong cách",
+          "image": "ecovina_images/items/amenities_hop_trang.png"
+        }
+      ],
+      "highlights": [
+        "Bộ đầy đủ: bàn chải/kem đánh răng, lược, dao cạo, mũ tắm, sữa tắm, dầu gội",
+        "4 kiểu hộp đa dạng theo phong cách khách sạn",
+        "In logo theo yêu cầu riêng của từng thương hiệu",
+        "Phù hợp khách sạn 3–5 sao"
+      ],
+      "contact": "Liên hệ để gửi file logo và nhận báo giá chi tiết."
+    }
+  },
+  {
+    "id": "binh-su-bat-trang",
+    "name": "Bình Sứ Bát Tràng Đựng Dung Dịch",
+    "category": "gom-su",
+    "categoryLabel": "Gốm sứ Bát Tràng",
+    "image": "ecovina_images/page_15.png",
+    "shortDesc": "Đa dạng kiểu dáng từ 150ml đến 370ml – thiết kế và in logo theo yêu cầu.",
+    "features": [
+      "Gốm Bát Tràng",
+      "In logo theo yêu cầu",
+      "Nhiều kích thước"
+    ],
+    "details": {
+      "intro": "Bình sứ gốm Bát Tràng cao cấp – sang trọng, bền đẹp, phù hợp phòng tắm khách sạn 4–5 sao. Thiết kế và in logo theo yêu cầu.",
+      "products": [
+        {
+          "name": "Bình Xoài Nhỏ",
+          "desc": "Gốm sứ Bát Tràng | KT: 6×10.5cm | 200ml",
+          "image": "ecovina_images/items/binh_xoai_nho.png"
+        },
+        {
+          "name": "Bình Trứng",
+          "desc": "Gốm sứ Bát Tràng | KT: 7.5×10cm | 250ml",
+          "image": "ecovina_images/items/binh_trung.png"
+        },
+        {
+          "name": "Bình Dáng",
+          "desc": "Gốm sứ Bát Tràng | KT: 7×7×12cm | 340ml",
+          "image": "ecovina_images/items/binh_dang.png"
+        },
+        {
+          "name": "Bình Sứ Trụ Đứng",
+          "desc": "Gốm sứ Bát Tràng | KT: 6.5×14cm | 300ml",
+          "image": "ecovina_images/items/binh_trudung.png"
+        },
+        {
+          "name": "Bình Vuông Lớn",
+          "desc": "Gốm sứ Bát Tràng | KT: 6×6×13cm | 370ml",
+          "image": "ecovina_images/items/binh_vuong_lon.png"
+        },
+        {
+          "name": "Bình Vuông Nhỏ",
+          "desc": "Gốm sứ Bát Tràng | KT: 6.5×6.5×10.5cm | 240ml",
+          "image": "ecovina_images/items/binh_vuong_nho.png"
+        },
+        {
+          "name": "Bình Oval",
+          "desc": "Gốm sứ Bát Tràng | KT: 7.5×6×10.5cm | 250ml",
+          "image": "ecovina_images/items/binh_oval.png"
+        },
+        {
+          "name": "Bình Chữ Nhật",
+          "desc": "Gốm sứ Bát Tràng | 340ml",
+          "image": "ecovina_images/items/binh_chunhat.png"
+        },
+        {
+          "name": "Bình Thang Nhỏ",
+          "desc": "Gốm sứ Bát Tràng | KT: 6.5×6.5×10.5cm | 200ml",
+          "image": "ecovina_images/items/binh_thang_nho.png"
+        },
+        {
+          "name": "Bình Chuông Nhỏ",
+          "desc": "Gốm sứ Bát Tràng | KT: 9×9×7.5cm | 260ml",
+          "image": "ecovina_images/items/binh_chuong_nho.png"
+        },
+        {
+          "name": "Bình Chuông Lớn",
+          "desc": "Gốm sứ Bát Tràng | KT: 9×9×9.3cm | 350ml",
+          "image": "ecovina_images/items/binh_chuong_lon.png"
+        },
+        {
+          "name": "Bình Dáng Vuông Nhỏ",
+          "desc": "Gốm sứ Bát Tràng | KT: 5×5×5cm | 150ml",
+          "image": "ecovina_images/items/binh_dang_vuongnho.png"
+        }
+      ],
+      "highlights": [
+        "Gốm sứ Bát Tràng – thương hiệu gốm sứ truyền thống Việt Nam",
+        "Đa dạng kiểu dáng từ 150ml đến 370ml",
+        "Thiết kế và in logo theo yêu cầu riêng"
+      ],
+      "contact": "Liên hệ để chọn mẫu và báo giá in logo theo yêu cầu."
+    }
+  },
+  {
+    "id": "khay-da-khach-san",
+    "name": "Bộ Khay Da Khách Sạn",
+    "category": "gom-su",
+    "categoryLabel": "Khay da cao cấp",
+    "image": "ecovina_images/page_20.png",
+    "shortDesc": "Bộ khay, hộp, kẹp file, sổ menu da cao cấp – in logo theo yêu cầu.",
+    "features": [
+      "Da cao cấp",
+      "Khách sạn sang",
+      "In logo"
+    ],
+    "details": {
+      "intro": "Bộ đồ dùng bằng da cao cấp cho phòng khách sạn – sang trọng, đồng bộ và in logo theo yêu cầu riêng.",
+      "products": [
+        {
+          "name": "Khay Da Có Tay Cầm",
+          "desc": "30×40×8cm",
+          "image": "ecovina_images/items/khay_da_taycam.png"
+        },
+        {
+          "name": "Hộp Da Ngăn Kéo 1 Tầng",
+          "desc": "25×22×9cm",
+          "image": "ecovina_images/items/hop_da_ngankeo.png"
+        },
+        {
+          "name": "Sổ Menu Da A4",
+          "desc": "32×24cm",
+          "image": "ecovina_images/items/so_menu_da.png"
+        },
+        {
+          "name": "Kẹp File Da A4",
+          "desc": "32×24cm",
+          "image": "ecovina_images/items/kep_file_da_a4.png"
+        },
+        {
+          "name": "Hộp Giấy Ăn Vuông Da",
+          "desc": "11.5×11.5×8cm",
+          "image": "ecovina_images/items/hop_giay_vuong_da.png"
+        },
+        {
+          "name": "Hộp Giấy Chữ Nhật Da",
+          "desc": "24×12.5×6.5cm",
+          "image": "ecovina_images/items/hop_giay_chunhat_da.png"
+        },
+        {
+          "name": "Khay Trà 2 Ngăn Da",
+          "desc": "16.5×8.5×6.5cm",
+          "image": "ecovina_images/items/khay_tra_da.png"
+        },
+        {
+          "name": "Khay Điều Khiển Da",
+          "desc": "16×10×15.5cm",
+          "image": "ecovina_images/items/khay_dieukhien_da.png"
+        },
+        {
+          "name": "Thẻ Dọn Phòng Bảng Da",
+          "desc": "25×9cm",
+          "image": "ecovina_images/items/the_donphong_da.png"
+        },
+        {
+          "name": "Sổ Da Nội Quy A5",
+          "desc": "21×15×5.5cm",
+          "image": "ecovina_images/items/so_da_noiquy_a5.png"
+        },
+        {
+          "name": "Kẹp File Da A5",
+          "desc": "21×15cm",
+          "image": "ecovina_images/items/kep_file_da_a5.png"
+        },
+        {
+          "name": "Đồng Hồ Da Để Bàn",
+          "desc": "13×6×15cm",
+          "image": "ecovina_images/items/dongho_da_deban.png"
+        }
+      ],
+      "highlights": [
+        "Da cao cấp – sang trọng và bền bỉ",
+        "Bộ đầy đủ cho phòng khách sạn hạng sang",
+        "In logo theo yêu cầu riêng của từng thương hiệu"
+      ],
+      "contact": "Liên hệ để chọn bộ sản phẩm và gửi file logo."
+    }
+  },
+  {
+    "id": "thung-rac-khach-san",
+    "name": "Thùng Rác Khách Sạn Cao Cấp",
+    "category": "gian-phong",
+    "categoryLabel": "Vận hành phòng",
+    "image": "ecovina_images/page_29.png",
+    "shortDesc": "Inox 201, thép tĩnh điện, da nhân tạo – 10L, in logo theo yêu cầu.",
+    "features": [
+      "Inox 201",
+      "Da nhân tạo",
+      "In logo"
+    ],
+    "details": {
+      "intro": "Thùng rác khách sạn cao cấp – đa dạng chất liệu, phù hợp từng phân khúc và phong cách nội thất.",
+      "products": [
+        {
+          "name": "Thùng Rác Nắp Bập Bênh Trắng (Inox 201)",
+          "desc": "Chất liệu: Inox 201 | KT: φ25×(H)30cm | Dung tích: 10L | Màu bạc sang trọng | Mẫu trơn không in logo",
+          "image": "ecovina_images/items/thungrac_napbapbenh_trang.png"
+        },
+        {
+          "name": "Thùng Rác Nắp Bập Bênh Trắng In Logo (Inox 201)",
+          "desc": "Chất liệu: Inox 201 | KT: φ25×(H)30cm | Dung tích: 10L | Màu bạc sang trọng | In logo khách sạn theo yêu cầu",
+          "image": "ecovina_images/items/thungrac_napbapbenh_trang_inlogo.png"
+        },
+        {
+          "name": "Thùng Rác Nắp Bập Bênh Đen",
+          "desc": "Chất liệu: Thép sơn tĩnh điện chống gỉ | KT: φ25×(H)30cm | Dung tích: 10L | Màu đen, in logo theo yêu cầu",
+          "image": "ecovina_images/items/thungrac_napbapbenh_den.png"
+        },
+        {
+          "name": "Thùng Rác 2 Lớp Thép Tĩnh Điện",
+          "desc": "Thân bằng thép sơn tĩnh điện, viền inox | KT: 2(Ø)22.5×(H)26.5cm | Dung tích: 10L | Kiểu dáng tròn, không có nắp | Màu đen",
+          "image": "ecovina_images/items/thungrac_2lop_thep.png"
+        },
+        {
+          "name": "Thùng Rác 2 Lớp Bằng Da",
+          "desc": "Da nhân tạo, viền inox | KT: 2(Ø)23×(H)27cm | Dung tích: 10L | Kiểu dáng tròn, không có nắp | Màu đen sẵn kho, màu khác order",
+          "image": "ecovina_images/items/thungrac_2lop_da.png"
+        }
+      ],
+      "highlights": [
+        "Đa dạng chất liệu: Inox 201, thép tĩnh điện, da nhân tạo",
+        "Dung tích 10L, phù hợp phòng khách sạn",
+        "In logo theo yêu cầu riêng",
+        "Thiết kế sang trọng, phù hợp nội thất cao cấp"
+      ],
+      "contact": "Liên hệ để chọn mẫu và báo giá in logo."
+    }
+  },
+  {
+    "id": "chan-ga-goi",
+    "name": "Chăn Ga Gối Khách Sạn",
+    "category": "chan-ga",
+    "categoryLabel": "Chăn ga gối",
+    "image": "ecovina_images/page_48.png",
+    "shortDesc": "Vải T300/T350/T400 – 100% Cotton hoặc Cotton pha, phù hợp 3–5 sao.",
+    "features": [
+      "100% Cotton",
+      "3–5 sao",
+      "Thoáng mát"
+    ],
+    "details": {
+      "intro": "Bộ chăn ga gối khách sạn cao cấp – nhiều lựa chọn chất liệu phù hợp từng phân khúc khách sạn từ 3 đến 5 sao.",
+      "products": [
+        {
+          "name": "Vải T400 Trơn – 100% Cotton",
+          "desc": "Mật độ 388 sợi/inch | Cỡ sợi 80s×60s | Thoáng mát, mềm mịn, thấm hút tốt | Phù hợp khách sạn 4–5 sao",
+          "image": "ecovina_images/items/changa_t400_tron.png"
+        },
+        {
+          "name": "Vải T350 Trơn/Kẻ – 100% Cotton",
+          "desc": "Mật độ 350 sợi/inch | Cỡ sợi 60s×60s | Thoáng mát, mềm mịn, an toàn với làn da | Phù hợp khách sạn 3–5 sao",
+          "image": "ecovina_images/items/changa_t350_tron_ke.png"
+        },
+        {
+          "name": "Vải T300 Trơn/Kẻ – 100% Cotton",
+          "desc": "Mật độ 293 sợi/inch | Cỡ sợi 60s×40s | Thoáng mát, mềm mịn, an toàn với làn da | Phù hợp khách sạn 3–5 sao",
+          "image": "ecovina_images/items/changa_t300_tron_ke.png"
+        },
+        {
+          "name": "Vải T300 Trơn/Kẻ – 80% Cotton + 20% Polyester",
+          "desc": "Mật độ 301 sợi/inch | Cỡ sợi 60s×40s | Mềm mại, thoáng mát, hút ẩm nhanh | Phù hợp khách sạn 3–5 sao",
+          "image": "ecovina_images/items/changa_t300_80_20.png"
+        }
+      ],
+      "highlights": [
+        "100% Cotton hoặc Cotton pha cao cấp",
+        "Thoáng mát, mềm mịn, thấm hút tốt, an toàn với làn da",
+        "Nhiều lựa chọn phù hợp khách sạn 3–5 sao",
+        "Trắng trơn hoặc kẻ sọc 3cm theo yêu cầu"
+      ],
+      "contact": "Liên hệ để tư vấn chất liệu phù hợp với phân khúc khách sạn."
+    }
+  }
+]
