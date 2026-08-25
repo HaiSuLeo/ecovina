@@ -224,6 +224,8 @@ function buildModalDOM(product) {
           '<div class="slide-img-tag" id="slideImgTag">Mẫu 1 / ' + total + '</div>' +
           '<div class="slide-zoom-hint">🔍 Bấm để xem ảnh lớn</div>' +
         '</div>' +
+        // Multi-image gallery thumbnails strip
+        '<div class="slide-gallery-strip" id="slideGalleryStrip"></div>' +
         // Navigation buttons on image
         (total > 1 ?
           '<div class="slide-nav-arrows">' +
@@ -271,6 +273,7 @@ function updateSlideView(idx) {
   var total = items.length;
   var item = items[idx] || { name: activeProduct.name, desc: '' };
   var itemImage = item.image || activeProduct.image;
+  var itemImages = item.images && item.images.length > 0 ? item.images : [itemImage];
 
   // 1. Update text & numbers
   var curNumEl = document.getElementById('slideCurNum');
@@ -298,6 +301,36 @@ function updateSlideView(idx) {
       mainImg.onload = function () {
         mainImg.style.opacity = '1';
       };
+    }
+  }
+
+  // 3. Multi-image gallery strip
+  var galleryStrip = document.getElementById('slideGalleryStrip');
+  if (galleryStrip) {
+    if (itemImages.length > 1) {
+      galleryStrip.style.display = 'flex';
+      galleryStrip.innerHTML = itemImages.map(function (imgSrc, gIdx) {
+        return '<button class="gallery-thumb' + (gIdx === 0 ? ' active' : '') + '" data-img="' + imgSrc + '">' +
+          '<img src="' + imgSrc + '" alt="Góc chụp ' + (gIdx + 1) + '"/>' +
+        '</button>';
+      }).join('');
+
+      galleryStrip.querySelectorAll('.gallery-thumb').forEach(function (thumb) {
+        thumb.addEventListener('click', function (e) {
+          e.stopPropagation();
+          var chosenImg = thumb.getAttribute('data-img');
+          if (mainImg) {
+            mainImg.style.opacity = '0.4';
+            mainImg.src = chosenImg;
+            mainImg.onload = function () { mainImg.style.opacity = '1'; };
+          }
+          galleryStrip.querySelectorAll('.gallery-thumb').forEach(function (t) { t.classList.remove('active'); });
+          thumb.classList.add('active');
+        });
+      });
+    } else {
+      galleryStrip.style.display = 'none';
+      galleryStrip.innerHTML = '';
     }
   }
 

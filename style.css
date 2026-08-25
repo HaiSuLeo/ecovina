@@ -1599,10 +1599,55 @@ a.contact-item-val:hover { color: var(--green-700); }
   font-weight: 600;
   padding: 5px 12px;
   border-radius: 100px;
+  letter-spacing: 0.02em;
+  opacity: 0.9;
   backdrop-filter: blur(6px);
   transition: var(--transition);
   box-shadow: var(--shadow-sm);
   pointer-events: none;
+}
+
+/* Multi-image thumbnail strip */
+.slide-gallery-strip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.gallery-thumb {
+  width: 52px;
+  height: 52px;
+  border-radius: var(--radius-sm);
+  border: 2px solid var(--border);
+  background: #fff;
+  padding: 2px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.gallery-thumb:hover {
+  border-color: var(--green-400);
+  transform: translateY(-2px);
+}
+
+.gallery-thumb.active {
+  border-color: var(--green-600);
+  box-shadow: 0 0 0 2px rgba(31,128,72,0.3);
+  transform: scale(1.05);
 }
 
 .slide-img-container:hover .slide-zoom-hint {
