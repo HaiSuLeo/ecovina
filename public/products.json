@@ -361,7 +361,7 @@
     "name": "Túi Đựng Rác Công Nghiệp",
     "category": "gian-phong",
     "categoryLabel": "Vận hành phòng",
-    "image": "ecovina_images/page_07.png",
+    "image": "ecovina_images/pages/page_07_trash.jpg",
     "shortDesc": "Loại có quai & không quai. Nhựa dai, chắc chắn. Nhiều size 5–50kg.",
     "features": [
       "Dai chắc",
@@ -372,19 +372,31 @@
       "intro": "Túi đựng rác công nghiệp phù hợp khách sạn, nhà hàng và khu công nghiệp. Nhựa dai, chắc chắn, không rách.",
       "products": [
         {
-          "name": "Túi Có Quai",
-          "desc": "Tiện lợi khi mang vác",
-          "image": "ecovina_images/items/tui_rac_congnghiep.png"
+          "name": "Túi Đựng Rác Công Nghiệp Có Quai (5kg - 50kg)",
+          "desc": "Loại có quai tiện dụng | Nhựa HDPE/LDPE dẻo dai, chịu lực cực tốt, không bục rách rò rỉ nước | Kích thước đa dạng 5kg, 10kg, 20kg, 30kg, 50kg",
+          "image": "ecovina_images/items/tui_rac_congnghiep.png",
+          "images": [
+            "ecovina_images/items/tui_rac_congnghiep.png",
+            "ecovina_images/pages/page_07_trash.jpg"
+          ]
         },
         {
-          "name": "Túi Không Quai",
-          "desc": "Tiết kiệm không gian lưu trữ",
-          "image": "ecovina_images/items/tui_rac_cacloai.png"
+          "name": "Túi Rác Cuộn / Túi Rời Không Quai",
+          "desc": "Dạng cuộn có đường xé tiện lợi hoặc túi rời đóng theo kg | Dùng cho khách sạn, nhà hàng, tòa nhà văn phòng và gia đình",
+          "image": "ecovina_images/items/tui_rac_congnghiep.png",
+          "images": [
+            "ecovina_images/items/tui_rac_congnghiep.png",
+            "ecovina_images/pages/page_07_trash.jpg"
+          ]
         },
         {
-          "name": "Túi Cuộn / Túi Rời",
-          "desc": "Nhiều lựa chọn đóng gói",
-          "image": "ecovina_images/items/tui_rac_cacloai.png"
+          "name": "Túi Rác Phân Loại Màu Đen, Xanh, Vàng",
+          "desc": "Quy chuẩn phân loại rác thải y tế, rác hữu cơ, vô cơ | Bền chắc, không mùi hôi khó chịu",
+          "image": "ecovina_images/pages/page_07_trash.jpg",
+          "images": [
+            "ecovina_images/pages/page_07_trash.jpg",
+            "ecovina_images/items/tui_rac_congnghiep.png"
+          ]
         }
       ],
       "highlights": [
@@ -788,7 +800,7 @@
     "name": "Bộ Khay Da Khách Sạn",
     "category": "gom-su",
     "categoryLabel": "Khay da cao cấp",
-    "image": "ecovina_images/page_20.png",
+    "image": "ecovina_images/pages/page_20.jpg",
     "shortDesc": "Bộ khay, hộp, kẹp file, sổ menu da cao cấp – in logo theo yêu cầu.",
     "features": [
       "Da cao cấp",
@@ -801,62 +813,110 @@
         {
           "name": "Khay Da Có Tay Cầm",
           "desc": "30×40×8cm",
-          "image": "ecovina_images/items/khay_da_taycam.png"
+          "image": "ecovina_images/items/khay_da_taycam.png",
+          "images": [
+            "ecovina_images/items/khay_da_taycam.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Hộp Da Ngăn Kéo 1 Tầng",
           "desc": "25×22×9cm",
-          "image": "ecovina_images/items/hop_da_ngankeo.png"
+          "image": "ecovina_images/items/hop_da_ngankeo.png",
+          "images": [
+            "ecovina_images/items/hop_da_ngankeo.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Sổ Menu Da A4",
           "desc": "32×24cm",
-          "image": "ecovina_images/items/so_menu_da.png"
+          "image": "ecovina_images/items/so_menu_da.png",
+          "images": [
+            "ecovina_images/items/so_menu_da.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Kẹp File Da A4",
           "desc": "32×24cm",
-          "image": "ecovina_images/items/kep_file_da_a4.png"
+          "image": "ecovina_images/items/kep_file_da_a4.png",
+          "images": [
+            "ecovina_images/items/kep_file_da_a4.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Hộp Giấy Ăn Vuông Da",
           "desc": "11.5×11.5×8cm",
-          "image": "ecovina_images/items/hop_giay_vuong_da.png"
+          "image": "ecovina_images/items/hop_giay_vuong_da.png",
+          "images": [
+            "ecovina_images/items/hop_giay_vuong_da.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Hộp Giấy Chữ Nhật Da",
           "desc": "24×12.5×6.5cm",
-          "image": "ecovina_images/items/hop_giay_chunhat_da.png"
+          "image": "ecovina_images/items/hop_giay_chunhat_da.png",
+          "images": [
+            "ecovina_images/items/hop_giay_chunhat_da.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Khay Trà 2 Ngăn Da",
           "desc": "16.5×8.5×6.5cm",
-          "image": "ecovina_images/items/khay_tra_da.png"
+          "image": "ecovina_images/items/khay_tra_da.png",
+          "images": [
+            "ecovina_images/items/khay_tra_da.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Khay Điều Khiển Da",
           "desc": "16×10×15.5cm",
-          "image": "ecovina_images/items/khay_dieukhien_da.png"
+          "image": "ecovina_images/items/khay_dieukhien_da.png",
+          "images": [
+            "ecovina_images/items/khay_dieukhien_da.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Thẻ Dọn Phòng Bảng Da",
           "desc": "25×9cm",
-          "image": "ecovina_images/items/the_donphong_da.png"
+          "image": "ecovina_images/items/the_donphong_da.png",
+          "images": [
+            "ecovina_images/items/the_donphong_da.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Sổ Da Nội Quy A5",
           "desc": "21×15×5.5cm",
-          "image": "ecovina_images/items/so_da_noiquy_a5.png"
+          "image": "ecovina_images/items/so_da_noiquy_a5.png",
+          "images": [
+            "ecovina_images/items/so_da_noiquy_a5.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Kẹp File Da A5",
           "desc": "21×15cm",
-          "image": "ecovina_images/items/kep_file_da_a5.png"
+          "image": "ecovina_images/items/kep_file_da_a5.png",
+          "images": [
+            "ecovina_images/items/kep_file_da_a5.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         },
         {
           "name": "Đồng Hồ Da Để Bàn",
           "desc": "13×6×15cm",
-          "image": "ecovina_images/items/dongho_da_deban.png"
+          "image": "ecovina_images/items/dongho_da_deban.png",
+          "images": [
+            "ecovina_images/items/dongho_da_deban.png",
+            "ecovina_images/pages/page_20.jpg"
+          ]
         }
       ],
       "highlights": [
@@ -960,6 +1020,435 @@
         "Trắng trơn hoặc kẻ sọc 3cm theo yêu cầu"
       ],
       "contact": "Liên hệ để tư vấn chất liệu phù hợp với phân khúc khách sạn."
+    }
+  },
+  {
+    "id": "bo-khay-am-sieu-toc",
+    "name": "Bộ Khay & Ấm Siêu Tốc Khách Sạn",
+    "category": "thiet-bi",
+    "categoryLabel": "Thiết bị buồng phòng",
+    "image": "ecovina_images/pages/page_25.jpg",
+    "shortDesc": "Ấm siêu tốc Honeyson & Sato cao cấp kèm bộ khay chén đĩa tiện nghi 4-5 sao.",
+    "features": [
+      "Honeyson & Sato",
+      "Inox 304 không gỉ",
+      "Tự ngắt an toàn",
+      "Khay ABS sang trọng"
+    ],
+    "details": {
+      "intro": "Giải pháp trọn bộ khay ấm siêu tốc chất lượng cao dành cho phòng khách sạn, resort. Chất liệu nhựa ABS bền đẹp, ấm ruột Inox 304 chuẩn an toàn thực phẩm.",
+      "products": [
+        {
+          "name": "Bộ Khay Ấm Siêu Tốc Honeyson 1.2L",
+          "desc": "Thương hiệu Honeyson | Khay ABS đen trơn 30x40cm + khay trà cafe 2 ngăn + 2 bộ cốc chén sứ đĩa thìa men cao cấp | Ấm 1.2L công suất 1350W ruột Inox 304, vỏ ABS cách nhiệt, đế xoay 360 độ tự ngắt",
+          "image": "ecovina_images/items/khay_am_honeyson.png",
+          "images": [
+            "ecovina_images/items/khay_am_honeyson.png",
+            "ecovina_images/items/am_honeyson_12l.png",
+            "ecovina_images/pages/page_25.jpg"
+          ]
+        },
+        {
+          "name": "Bộ Khay Ấm Siêu Tốc Sato 17ST48 1.8L Inox Bạc",
+          "desc": "Thương hiệu Sato Nhật Bản | Khay ABS đen 30x40cm + khay trà 2 ngăn + 2 bộ cốc sứ trắng | Ấm Sato Inox 304 sáng bóng 1.8L 1500W tự ngắt chống cạn nước",
+          "image": "ecovina_images/items/khay_am_sato_17st48.png",
+          "images": [
+            "ecovina_images/items/khay_am_sato_17st48.png",
+            "ecovina_images/items/am_sato_17st48.png",
+            "ecovina_images/pages/page_25.jpg"
+          ]
+        },
+        {
+          "name": "Bộ Khay Ấm Sato 17ST72 (X) Nâu Nhạt 1.8L",
+          "desc": "Ấm Sato 17ST72 màu Nâu nhạt hiện đại | Ruột Inox 304, thân ấm nhựa cách nhiệt an toàn | Kèm khay lớn và bộ cốc sứ cao cấp",
+          "image": "ecovina_images/items/khay_am_sato_17st72.png",
+          "images": [
+            "ecovina_images/items/khay_am_sato_17st72.png",
+            "ecovina_images/pages/page_26.jpg"
+          ]
+        },
+        {
+          "name": "Bộ Khay Ấm Sato 17ST62 (N) Nâu Đậm 1.8L",
+          "desc": "Ấm Sato 17ST62 màu Nâu đậm sang trọng | Dung tích 1.8L 1500W, đế xoay 360 độ, bảo hành 12 tháng chính hãng",
+          "image": "ecovina_images/items/khay_am_sato_17st62.png",
+          "images": [
+            "ecovina_images/items/khay_am_sato_17st62.png",
+            "ecovina_images/pages/page_26.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Chất liệu Inox 304 & Nhựa ABS cao cấp",
+        "Rơ-le kép tự ngắt khi nước sôi hoặc cạn nước",
+        "Đầy đủ bộ khay, ấm, khay trà và bộ tách sứ đồng bộ",
+        "Bảo hành chính hãng 12 tháng"
+      ]
+    }
+  },
+  {
+    "id": "ban-la-cau-la",
+    "name": "Bàn Là & Cầu Là Khách Sạn",
+    "category": "thiet-bi",
+    "categoryLabel": "Thiết bị buồng phòng",
+    "image": "ecovina_images/pages/page_27.jpg",
+    "shortDesc": "Bàn là hơi nước Honeyson chống cháy, cầu là 7 nấc và giá treo bàn là tiện dụng.",
+    "features": [
+      "Tự ngắt thông minh",
+      "Chống dính Ceramic",
+      "Cầu là 7 nấc gấp gọn",
+      "Giá treo gắn tường"
+    ],
+    "details": {
+      "intro": "Bộ thiết bị ủi đồ chuyên nghiệp dành cho buồng phòng khách sạn. Tự động ngắt điện thông minh khi đặt nằm hoặc dựng đứng, bảo vệ an toàn tối đa cho du khách.",
+      "products": [
+        {
+          "name": "Bàn Là Hơi Nước Honeyson HS-05 (Đen)",
+          "desc": "Mã HS-05 | Màu đen mạnh mẽ | Công suất 180W, bình chứa nước 320ML | Tự động ngắt điện khi nằm ngang sau 30s và đứng yên 8 phút | Mặt đế Ceramic chống dính, trượt êm ái",
+          "image": "ecovina_images/items/banla_hs05.png",
+          "images": [
+            "ecovina_images/items/banla_hs05.png",
+            "ecovina_images/pages/page_27.jpg"
+          ]
+        },
+        {
+          "name": "Bàn Là Hơi Nước Honeyson HS-06 (Trắng Xám)",
+          "desc": "Mã HS-06 | Màu trắng xám thanh lịch | Ủi khô, hơi nước, phun sương, phun tia | Đèn báo thông minh ON/READY, dây nguồn dài 1.5m bọc chống xoắn",
+          "image": "ecovina_images/items/banla_hs06.png",
+          "images": [
+            "ecovina_images/items/banla_hs06.png",
+            "ecovina_images/pages/page_27.jpg"
+          ]
+        },
+        {
+          "name": "Cầu Là Khách Sạn Honeyson IB01 Gấp Gọn",
+          "desc": "Mã IB01 | Kích thước mặt bàn 92x30cm, độ dày nệm 10mm là phẳng mịn | 7 nấc điều chỉnh độ cao tối đa 110cm | Chân thép sơn tĩnh điện chống gỉ chống trượt",
+          "image": "ecovina_images/items/caula_ib01.png",
+          "images": [
+            "ecovina_images/items/caula_ib01.png",
+            "ecovina_images/pages/page_27.jpg"
+          ]
+        },
+        {
+          "name": "Giá Treo Bàn Là & Cầu Là Gắn Tường IB02-5",
+          "desc": "Mã IB02-5 | Nhựa cứng chịu nhiệt cao cấp | Kích thước 35x13.5cm | Treo gọn bàn là và cầu là trong tủ quần áo khách sạn",
+          "image": "ecovina_images/items/giatreo_ib025.png",
+          "images": [
+            "ecovina_images/items/giatreo_ib025.png",
+            "ecovina_images/pages/page_27.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Cảm biến an toàn tự ngắt chống cháy nổ",
+        "Mặt đế tráng men Ceramic chống xước",
+        "Cầu là nệm dày dặn 10mm là êm mượt",
+        "Tiết kiệm không gian buồng phòng"
+      ]
+    }
+  },
+  {
+    "id": "can-dien-tu",
+    "name": "Cân Điện Tử Khách Sạn",
+    "category": "thiet-bi",
+    "categoryLabel": "Thiết bị phòng tắm",
+    "image": "ecovina_images/pages/page_28.jpg",
+    "shortDesc": "Cân điện tử kính chịu lực Laica PS1054 & KAW đo chỉ số sức khỏe chính xác.",
+    "features": [
+      "Tải trọng 180kg",
+      "Kính cường lực",
+      "Màn hình LED sắc nét",
+      "Đo chỉ số cơ thể"
+    ],
+    "details": {
+      "intro": "Cân điện tử cao cấp đặt tại phòng tắm khách sạn, resort. Thiết kế mỏng nhẹ, sang trọng, độ chính xác cao mang lại trải nghiệm tiện nghi hoàn hảo cho khách hàng.",
+      "products": [
+        {
+          "name": "Cân Điện Tử Laica PS1054 (Ý)",
+          "desc": "Màu trắng bạc sang trọng | Mặt kính chịu lực cao, kích thước 31x33x2.5cm | Mức cân tối đa 180kg, độ chia nhỏ nhất 100g | Màn hình LCD tự động bật/tắt khi bước lên",
+          "image": "ecovina_images/items/can_laica_ps1054.png",
+          "images": [
+            "ecovina_images/items/can_laica_ps1054.png",
+            "ecovina_images/pages/page_28.jpg"
+          ]
+        },
+        {
+          "name": "Cân Điện Tử Thông Minh KAW Smart",
+          "desc": "Thương hiệu KAW | Màu đen công nghệ | Kích thước 26x26x2.2cm | Màn hình hiển thị LCD | Kết nối Smartphone qua Bluetooth đo và phân tích 11 chỉ số sức khỏe cơ thể",
+          "image": "ecovina_images/items/can_kaw_smart.png",
+          "images": [
+            "ecovina_images/items/can_kaw_smart.png",
+            "ecovina_images/pages/page_28.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Mặt kính cường lực chịu tải tới 180kg",
+        "Cảm biến điện tử độ chính xác cao sai số <0.1kg",
+        "Thiết kế siêu mỏng tinh tế, sang trọng",
+        "Độ bền cao, pin sử dụng lâu dài"
+      ]
+    }
+  },
+  {
+    "id": "ket-sat-khach-san",
+    "name": "Két Sắt Khách Sạn Nanohome",
+    "category": "thiet-bi",
+    "categoryLabel": "Két sắt điện tử",
+    "image": "ecovina_images/pages/page_24.jpg",
+    "shortDesc": "Két sắt mini mã số điện tử Nanohome an toàn tuyệt đối cho khách sạn, resort.",
+    "features": [
+      "Nanohome",
+      "Khóa số điện tử LED",
+      "Thân thép dày 4mm",
+      "Bảo hành 12 tháng"
+    ],
+    "details": {
+      "intro": "Dòng két sắt khách sạn chuyên dụng Nanohome thiết kế lắp âm tủ quần áo. Sử dụng khóa số điện tử thông minh kết hợp chìa khóa khẩn cấp giải cứu Master Key.",
+      "products": [
+        {
+          "name": "Két Sắt Mini Điện Tử Nanohome FD-2042G",
+          "desc": "Mã FD-2042G | Màu Đen | Kích thước: 42 x 37 x 20 cm | Độ dày thân két: 1.2 mm, cửa két: 4.0 mm | Khối lượng: 8.8 kg | Màn hình LED phím bấm số bảo mật cao",
+          "image": "ecovina_images/items/ketsat_fd2042g.png",
+          "images": [
+            "ecovina_images/items/ketsat_fd2042g.png",
+            "ecovina_images/pages/page_24.jpg"
+          ]
+        },
+        {
+          "name": "Két Sắt Mini Nanohome FD-1935L",
+          "desc": "Mã FD-1935L | Màu Đen | Kích thước: 35.5 x 26 x 19 cm | Độ dày thân két: 1.5 mm, cửa két: 4.0 mm | Khối lượng: 7.3 kg | Mở két bằng 2 cách: Mật khẩu số hoặc chìa khóa cơ",
+          "image": "ecovina_images/items/ketsat_fd1935l.png",
+          "images": [
+            "ecovina_images/items/ketsat_fd1935l.png",
+            "ecovina_images/pages/page_24.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Cửa thép đặc dày 4.0mm chống cạy phá",
+        "Hệ thống khóa điện tử tự khóa khi nhập sai 3 lần",
+        "Có chìa khóa giải cứu Master cho khách sạn",
+        "Lỗ bắt vít cố định vào tủ hoặc tường chắc chắn"
+      ]
+    }
+  },
+  {
+    "id": "binh-resin-cao-cap",
+    "name": "Bình Resin & Phụ Kiện Phòng Tắm",
+    "category": "gom-su",
+    "categoryLabel": "Resin cao cấp",
+    "image": "ecovina_images/pages/page_18.jpg",
+    "shortDesc": "Bộ bình đựng dung dịch và khay phụ kiện chất liệu Polyresin chống vỡ sang trọng.",
+    "features": [
+      "Nhựa Polyresin",
+      "Chống vỡ, chống thấm",
+      "Vân đá & men sứ",
+      "In logo thương hiệu"
+    ],
+    "details": {
+      "intro": "Bộ phụ kiện phòng tắm Resin đúc nguyên khối chống va đập, chống thấm nước tuyệt đối. Phù hợp các khách sạn 4-5 sao và resort cao cấp ven biển.",
+      "products": [
+        {
+          "name": "Bộ Bình & Khay Resin Trắng Sứ Cao Cấp",
+          "desc": "Chất liệu Polyresin trắng sứ ngọc | Gồm bình xịt xà phòng vòi pump mạ crom, cốc đánh răng, đĩa xà bông, khay để đồ Amenities",
+          "image": "ecovina_images/items/resin_trang_su.png",
+          "images": [
+            "ecovina_images/items/resin_trang_su.png",
+            "ecovina_images/pages/page_18.jpg",
+            "ecovina_images/pages/page_19.jpg"
+          ]
+        },
+        {
+          "name": "Bộ Bình & Khay Resin Xám Khói Vân Đá",
+          "desc": "Chất liệu Polyresin màu xám khói vân đá cẩm thạch | Bề mặt nhám mờ cao cấp, chống trơn trượt và không để lại dấu vân tay",
+          "image": "ecovina_images/items/resin_xam_khoi.png",
+          "images": [
+            "ecovina_images/items/resin_xam_khoi.png",
+            "ecovina_images/pages/page_18.jpg",
+            "ecovina_images/pages/page_19.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Vật liệu Polyresin cao cấp bền bỉ không lo rơi vỡ",
+        "Kháng nước, kháng ẩm mốc và dễ dàng lau chùi",
+        "Thiết kế đồng bộ đẳng cấp 5 sao",
+        "Hỗ trợ khắc/in logo thương hiệu riêng"
+      ]
+    }
+  },
+  {
+    "id": "xe-day-khach-san",
+    "name": "Xe Đẩy Buồng Phòng & Xe Đẩy Hành Lý",
+    "category": "gian-phong",
+    "categoryLabel": "Vận hành buồng phòng",
+    "image": "ecovina_images/pages/page_30.jpg",
+    "shortDesc": "Xe đẩy dọn phòng C-38/C-39, xe đẩy hành lý mạ vàng hoàng gia chịu tải cao.",
+    "features": [
+      "Khung thép & Inox",
+      "Bánh xe giảm ồn",
+      "Chịu tải 200-350kg",
+      "Thiết kế đa ngăn"
+    ],
+    "details": {
+      "intro": "Dòng xe đẩy khách sạn chuyên dụng tối ưu hóa quy trình buồng phòng và vận chuyển hành lý tại sảnh. Khung kết cấu siêu chịu lực, bánh xe cao su êm ái không gây ồn.",
+      "products": [
+        {
+          "name": "Xe Đẩy Dọn Buồng Phòng Khách Sạn C-38",
+          "desc": "Khung thép sơn tĩnh điện màu nâu sang trọng | Có 2 túi bạt chống thấm đựng đồ bẩn 2 bên | 3 tầng để khăn vải sạch và khay chia ngăn Amenities trên cùng",
+          "image": "ecovina_images/items/xeday_c38.png",
+          "images": [
+            "ecovina_images/items/xeday_c38.png",
+            "ecovina_images/pages/page_30.jpg",
+            "ecovina_images/pages/page_31.jpg"
+          ]
+        },
+        {
+          "name": "Xe Đẩy Dọn Vệ Sinh Khách Sạn C-39",
+          "desc": "Thiết kế gọn nhẹ đa năng, bánh xe xoay 360 độ linh hoạt | Chuyên dụng cho hành lang khách sạn, resort, tòa nhà",
+          "image": "ecovina_images/items/xeday_c39.png",
+          "images": [
+            "ecovina_images/items/xeday_c39.png",
+            "ecovina_images/pages/page_30.jpg"
+          ]
+        },
+        {
+          "name": "Xe Đẩy Hành Lý Khách Sạn Mạ Vàng Hoàng Gia",
+          "desc": "Khung inox ống dày mạ vàng titan bóng bẩy phong cách hoàng gia | Thảm nỉ đỏ/đen chống trầy hành lý | Bánh xe cao su chịu tải trọng 350kg êm ái",
+          "image": "ecovina_images/items/xeday_hanhly_vang.png",
+          "images": [
+            "ecovina_images/items/xeday_hanhly_vang.png",
+            "ecovina_images/pages/page_33.jpg"
+          ]
+        },
+        {
+          "name": "Xe Đẩy Hành Lý Inox Bạc Vòm U",
+          "desc": "Khung inox 304 trắng bạc tinh tế | Thích hợp khách sạn hiện đại, phong cách tối giản thanh lịch",
+          "image": "ecovina_images/items/xeday_hanhly_inox.png",
+          "images": [
+            "ecovina_images/items/xeday_hanhly_inox.png",
+            "ecovina_images/pages/page_33.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Khung Inox và Thép hộp dày dặn chịu tải vượt trội",
+        "Hệ thống 4 bánh xe cao su đặc êm ái không trầy sàn",
+        "Túi bạt Oxford siêu bền, tháo giặt dễ dàng",
+        "Độ bền vận hành trên 5 năm"
+      ]
+    }
+  },
+  {
+    "id": "do-dung-dai-sanh",
+    "name": "Thiết Bị & Đồ Dùng Đại Sảnh",
+    "category": "gian-phong",
+    "categoryLabel": "Đại sảnh & Hành lang",
+    "image": "ecovina_images/pages/page_37.jpg",
+    "shortDesc": "Biển chỉ dẫn, cột chắn inox phân luồng, kệ để ô dù và thùng rác sảnh mạ vàng.",
+    "features": [
+      "Inox mạ vàng/bạc",
+      "Dây nhung sang trọng",
+      "Kệ ô có khóa riêng",
+      "Đồng bộ đại sảnh"
+    ],
+    "details": {
+      "intro": "Bộ thiết bị tiền sảnh nâng tầm diện mạo chuyên nghiệp cho khách sạn, nhà hàng, trung tâm hội nghị. Chất liệu inox mạ vàng kim/bạc cao cấp.",
+      "products": [
+        {
+          "name": "Biển Chỉ Dẫn & Menu Đứng Đại Sảnh Inox",
+          "desc": "Khung inox mạ vàng sang trọng khổ A3/A4 | Mặt kính trong suốt hiển thị thông báo, menu tiệc, bảng chào đón khách quý",
+          "image": "ecovina_images/items/bien_chidan_sanh.png",
+          "images": [
+            "ecovina_images/items/bien_chidan_sanh.png",
+            "ecovina_images/pages/page_37.jpg"
+          ]
+        },
+        {
+          "name": "Cột Chắn Inox Phân Luồng (Dây Kéo / Dây Nhung)",
+          "desc": "Cột inox mạ vàng/bạc đế gang đúc nặng 7kg chống đổ | Kèm dây kéo căng 2m hoặc dây nhung đỏ/xanh móc vàng quý phái",
+          "image": "ecovina_images/items/cot_chan_inox.png",
+          "images": [
+            "ecovina_images/items/cot_chan_inox.png",
+            "ecovina_images/pages/page_37.jpg"
+          ]
+        },
+        {
+          "name": "Kệ Để Ô Dù Khách Sạn Có Ổ Khóa An Toàn",
+          "desc": "Kệ cắm dù inox 18 ô / 24 ô có kèm ổ khóa và chìa số riêng biệt | Có khay hứng nước mưa dưới đáy chống ướt sàn sảnh",
+          "image": "ecovina_images/items/ke_de_odu.png",
+          "images": [
+            "ecovina_images/items/ke_de_odu.png",
+            "ecovina_images/pages/page_37.jpg"
+          ]
+        },
+        {
+          "name": "Thùng Rác Gạt Tàn Đại Sảnh Inox Mạ Vàng",
+          "desc": "Thùng rác tiền sảnh hình trụ / hình chữ nhật | Khay gạt tàn đá hoa cương hoặc lưới inox chống cháy trên nắp",
+          "image": "ecovina_images/items/thung_rac_gattan_sanh.png",
+          "images": [
+            "ecovina_images/items/thung_rac_gattan_sanh.png",
+            "ecovina_images/pages/page_37.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Inox chuẩn mạ titan chống oxi hóa bền đẹp theo thời gian",
+        "Tạo điểm nhấn trang trọng, đẳng cấp tại khu vực tiếp đón",
+        "Đa dạng mẫu mã kích thước theo từng không gian kiến trúc"
+      ]
+    }
+  },
+  {
+    "id": "dem-khach-san",
+    "name": "Đệm Lò Xo & Topper Khách Sạn",
+    "category": "chan-ga",
+    "categoryLabel": "Chăn ga gối đệm",
+    "image": "ecovina_images/pages/page_48.jpg",
+    "shortDesc": "Đệm lò xo túi độc lập nâng đỡ 7 vùng, đệm cao su và Topper làm mềm êm ái.",
+    "features": [
+      "Lò xo túi độc lập",
+      "Nâng đỡ cột sống 7 vùng",
+      "Vải gấm kháng khuẩn",
+      "Topper lông vũ mềm mịn"
+    ],
+    "details": {
+      "intro": "Hệ thống đệm ngủ tiêu chuẩn khách sạn 4-5 sao. Cấu trúc lò xo túi độc lập triệt tiêu rung động, mang lại giấc ngủ trọn vẹn và êm ái tối đa cho du khách.",
+      "products": [
+        {
+          "name": "Đệm Lò Xo Túi Độc Lập Ecovina Hotel Standard",
+          "desc": "Hệ lò xo túi độc lập cao cấp không gây tiếng ồn | Độ dày 25cm - 30cm | Vải bọc gấm dệt kim chần bông kháng khuẩn, chống cháy nhẹ | Kích thước: 1m2x2m, 1m6x2m, 1m8x2m, 2mx2m2",
+          "image": "ecovina_images/items/dem_loxotui_ecovina.png",
+          "images": [
+            "ecovina_images/items/dem_loxotui_ecovina.png",
+            "ecovina_images/pages/page_48.jpg",
+            "ecovina_images/pages/page_49.jpg"
+          ]
+        },
+        {
+          "name": "Đệm Cao Su Tự Nhiên Chống Lún Khách Sạn",
+          "desc": "Đệm cao su đàn hồi tối ưu, nâng đỡ hoàn hảo đường cong cột sống | Thoáng khí đa tầng không gây hầm bí lưng mùa hè",
+          "image": "ecovina_images/items/dem_caosu_ecovina.png",
+          "images": [
+            "ecovina_images/items/dem_caosu_ecovina.png",
+            "ecovina_images/pages/page_48.jpg"
+          ]
+        },
+        {
+          "name": "Topper Làm Mềm Đệm Khách Sạn 5 Sao",
+          "desc": "Tấm lót làm mềm đệm dày 7-10cm chất liệu sợi Microfiber lông vũ nhân tạo siêu êm ái | Dây chun bo 4 góc cố định chắc chắn vào đệm",
+          "image": "ecovina_images/items/topper_lammem_dem.png",
+          "images": [
+            "ecovina_images/items/topper_lammem_dem.png",
+            "ecovina_images/pages/page_50.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Bảo hành xẹp lún lò xo lên tới 10 năm",
+        "Nâng đỡ êm ái chuẩn giấc ngủ khách sạn 5 sao",
+        "Sản xuất trực tiếp tại xưởng theo kích thước yêu cầu"
+      ]
     }
   }
 ]
