@@ -7,11 +7,18 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Node dependencies - BẮT BUỘC IGNORE
+# Node dependencies & Build output
 node_modules
 dist
 dist-ssr
 *.local
+
+# Raw input media folder (ảnh thô dung lượng lớn, chỉ xử lý đưa vào public/)
+img/
+img/*
+
+# Tránh lặp: Chỉ giữ duy nhất public/ecovina_images
+ecovina_images/
 
 # Editor & OS files
 .vscode/*
