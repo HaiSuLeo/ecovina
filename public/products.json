@@ -4,7 +4,7 @@
     "name": "Dung Dịch Chăm Sóc & Giặt Là Sufor",
     "category": "hoa-my-pham",
     "categoryLabel": "Hóa mỹ phẩm",
-    "image": "ecovina_images/page_04.png",
+    "image": "ecovina_images/photos/photo_86.jpg",
     "shortDesc": "Bộ sản phẩm dung tích lớn 10L dành cho khách sạn, spa, cơ sở lưu trú.",
     "features": [
       "Bio Enzyme",
@@ -15,29 +15,69 @@
       "intro": "Giải pháp dung tích lớn cho khách sạn, spa, cơ sở lưu trú và khu dịch vụ. Công nghệ Bio Enzyme hỗ trợ làm sạch sâu nhưng vẫn dịu với da tay.",
       "products": [
         {
-          "name": "Dầu Xả Sufor",
-          "desc": "Chăm sóc tóc – hương lưu tuyển chọn",
-          "image": "ecovina_images/items/sufor_dauxa.png"
+          "name": "Nước Giặt Khách Sạn Sufor (Can 5Kg / 10Kg)",
+          "desc": "Giặt là chuyên dụng công nghệ Bio Enzyme | Đánh bay vết bẩn cứng đầu | Hương thơm hoa cỏ dịu mát bền lâu",
+          "image": "ecovina_images/photos/photo_86.jpg",
+          "images": [
+            "ecovina_images/photos/photo_86.jpg",
+            "ecovina_images/photos/photo_18.jpg",
+            "ecovina_images/photos/photo_19.jpg",
+            "ecovina_images/items/sufor_nuocgiat.png"
+          ]
         },
         {
-          "name": "Sữa Tắm Sufor",
-          "desc": "Làm sạch dịu nhẹ cho da",
-          "image": "ecovina_images/items/sufor_suatam.png"
+          "name": "Nước Giặt Gia Đình Sufor 3.2L",
+          "desc": "Can 3.2L tiện dụng có quai xách | 2 dòng Hương Hoa Hồng & Hương Hoa Cỏ | Sạch sâu, bảo vệ sợi vải, an toàn cho da tay",
+          "image": "ecovina_images/photos/photo_14.jpg",
+          "images": [
+            "ecovina_images/photos/photo_14.jpg",
+            "ecovina_images/photos/photo_85.jpg",
+            "ecovina_images/photos/photo_90.jpg",
+            "ecovina_images/photos/photo_15.jpg",
+            "ecovina_images/photos/photo_13.jpg"
+          ]
         },
         {
-          "name": "Dầu Gội Sufor",
-          "desc": "Chăm sóc tóc hằng ngày",
-          "image": "ecovina_images/items/sufor_daugoi.png"
+          "name": "Nước Giặt Xả Sufor Túi 2.1KG",
+          "desc": "Dạng túi tiết kiệm 2.1KG | Hương Thảo Mộc tự nhiên x5 khả năng làm sạch | Dùng cho cả máy giặt và giặt tay",
+          "image": "ecovina_images/photos/photo_16.jpg",
+          "images": [
+            "ecovina_images/photos/photo_16.jpg",
+            "ecovina_images/photos/photo_17.jpg",
+            "ecovina_images/photos/photo_13.jpg"
+          ]
         },
         {
-          "name": "Nước Rửa Tay Sufor",
-          "desc": "Khu vực công cộng",
-          "image": "ecovina_images/items/sufor_ruatay.png"
+          "name": "Dầu Xả Sufor 10L",
+          "desc": "Chăm sóc tóc mềm mượt | Hương lưu tuyển chọn cao cấp dành cho khách sạn & spa",
+          "image": "ecovina_images/items/sufor_dauxa.png",
+          "images": [
+            "ecovina_images/items/sufor_dauxa.png"
+          ]
         },
         {
-          "name": "Nước Giặt Khách Sạn Sufor",
-          "desc": "Giặt là chuyên dụng 10L",
-          "image": "ecovina_images/items/sufor_nuocgiat.png"
+          "name": "Sữa Tắm Sufor 10L",
+          "desc": "Làm sạch dịu nhẹ, dưỡng ẩm làn da | Hương thơm thư giãn chuẩn resort",
+          "image": "ecovina_images/items/sufor_suatam.png",
+          "images": [
+            "ecovina_images/items/sufor_suatam.png"
+          ]
+        },
+        {
+          "name": "Dầu Gội Sufor 10L",
+          "desc": "Chăm sóc tóc hằng ngày, sạch gàu bóng mượt | Dung tích lớn 10L tiết kiệm chi phí",
+          "image": "ecovina_images/items/sufor_daugoi.png",
+          "images": [
+            "ecovina_images/items/sufor_daugoi.png"
+          ]
+        },
+        {
+          "name": "Nước Rửa Tay Sufor 10L",
+          "desc": "Khử khuẩn, làm sạch dịu nhẹ | Phù hợp cho sảnh, nhà vệ sinh khách sạn và nhà hàng",
+          "image": "ecovina_images/items/sufor_ruatay.png",
+          "images": [
+            "ecovina_images/items/sufor_ruatay.png"
+          ]
         }
       ],
       "highlights": [
@@ -53,7 +93,7 @@
     "name": "Dung Dịch Làm Sạch Toàn Diện Sufor",
     "category": "hoa-my-pham",
     "categoryLabel": "Hóa mỹ phẩm",
-    "image": "ecovina_images/page_05.png",
+    "image": "ecovina_images/photos/photo_88.jpg",
     "shortDesc": "Bộ sản phẩm cốt lõi cho kính, sàn, khu bếp và khu vệ sinh.",
     "features": [
       "Hương chanh tươi mát",
@@ -64,24 +104,53 @@
       "intro": "Bộ 4 sản phẩm làm sạch chuyên nghiệp, đáp ứng đầy đủ nhu cầu vệ sinh không gian khách sạn, nhà hàng và gia đình.",
       "products": [
         {
-          "name": "Nước Lau Kính",
-          "desc": "Hỗ trợ bề mặt kính sáng bóng, hạn chế vết sau lau",
-          "image": "ecovina_images/items/sufor_laukinh.png"
+          "name": "Nước Lau Kính Sufor",
+          "desc": "Chai xịt 650ml tiện lợi | Sáng bóng tức thì, không vệt sọc, hạn chế bám bụi | Hương thơm tươi mát dễ chịu",
+          "image": "ecovina_images/photos/photo_25.jpg",
+          "images": [
+            "ecovina_images/photos/photo_25.jpg",
+            "ecovina_images/photos/photo_89.jpg",
+            "ecovina_images/photos/photo_27.jpg",
+            "ecovina_images/photos/photo_26.jpg",
+            "ecovina_images/items/sufor_laukinh.png"
+          ]
         },
         {
-          "name": "Nước Rửa Chén Bát",
-          "desc": "Làm sạch dầu mỡ, hương chanh tươi mát",
-          "image": "ecovina_images/items/sufor_ruachen.png"
+          "name": "Nước Rửa Chén Bát Sufor",
+          "desc": "Đa dạng quy cách: Chai 750ml, Can 2KG có vòi ấn, Can lớn 10KG | Tinh chất Chanh tươi đánh bay dầu mỡ cứng đầu",
+          "image": "ecovina_images/photos/photo_29.jpg",
+          "images": [
+            "ecovina_images/photos/photo_29.jpg",
+            "ecovina_images/photos/photo_87.jpg",
+            "ecovina_images/photos/photo_30.jpg",
+            "ecovina_images/photos/photo_28.jpg",
+            "ecovina_images/photos/photo_31.jpg",
+            "ecovina_images/photos/photo_33.jpg",
+            "ecovina_images/photos/photo_32.jpg"
+          ]
         },
         {
-          "name": "Nước Lau Sàn",
-          "desc": "Làm sạch không gian, lưu hương nhẹ và dễ chịu",
-          "image": "ecovina_images/items/sufor_lausan.png"
+          "name": "Nước Lau Sàn Sufor X2 Đậm Đặc",
+          "desc": "Hương Hoa Lily thơm mát ngát | Can 1KG, 5KG và 10 LÍT | Sàn nhà sáng bóng tức thì, sạch khuẩn an toàn",
+          "image": "ecovina_images/photos/photo_88.jpg",
+          "images": [
+            "ecovina_images/photos/photo_88.jpg",
+            "ecovina_images/photos/photo_21.jpg",
+            "ecovina_images/photos/photo_22.jpg",
+            "ecovina_images/photos/photo_24.jpg",
+            "ecovina_images/photos/photo_23.jpg",
+            "ecovina_images/photos/photo_20.jpg"
+          ]
         },
         {
-          "name": "Nước Cọ Bồn Cầu",
-          "desc": "Làm sạch khu vực toilet, hỗ trợ duy trì vệ sinh định kỳ",
-          "image": "ecovina_images/items/sufor_coboncau.png"
+          "name": "Nước Tẩy Rửa Toilet & Cọ Bồn Cầu Sufor",
+          "desc": "Chai 1KG công nghệ Max Attack X2 Power | Diệt khuẩn 99.9%, tẩy sạch ố vàng cực nhanh, không độc hại cho đường ống",
+          "image": "ecovina_images/photos/photo_42.jpg",
+          "images": [
+            "ecovina_images/photos/photo_42.jpg",
+            "ecovina_images/photos/photo_43.jpg",
+            "ecovina_images/items/sufor_coboncau.png"
+          ]
         }
       ],
       "highlights": [
@@ -97,7 +166,7 @@
     "name": "Sáp Thơm & Hạt Nở Thơm Clean Air",
     "category": "hoa-my-pham",
     "categoryLabel": "Hương thơm",
-    "image": "ecovina_images/page_05.png",
+    "image": "ecovina_images/photos/photo_84.jpg",
     "imageStyle": "object-position: right center",
     "shortDesc": "Khử mùi, lưu hương dịu nhẹ cho phòng khách và khu vệ sinh.",
     "features": [
@@ -109,14 +178,39 @@
       "intro": "Hai lựa chọn linh hoạt cho phòng khách, nhà vệ sinh và xe – thơm dịu, gọn gàng và dễ bảo trì.",
       "products": [
         {
-          "name": "Sáp Thơm Clean Air",
-          "desc": "Khử mùi, lưu hương dịu nhẹ – Định lượng 180g",
-          "image": "ecovina_images/items/sap_cleanair.png"
+          "name": "Sáp Thơm Gel Fresh Clean Air 180g",
+          "desc": "Hộp 180g với 3 mùi hương: Hương Lily (Hồng), Hương Jasmine Hoa Nhài (Xanh), Hương Lavender (Tím) | Khử mùi đa tầng hiệu quả cho khách sạn & phòng ngủ",
+          "image": "ecovina_images/photos/photo_45.jpg",
+          "images": [
+            "ecovina_images/photos/photo_45.jpg",
+            "ecovina_images/photos/photo_44.jpg",
+            "ecovina_images/photos/photo_46.jpg",
+            "ecovina_images/photos/photo_47.jpg",
+            "ecovina_images/photos/photo_48.jpg"
+          ]
         },
         {
-          "name": "Hạt Nở Thơm",
-          "desc": "Dạng hạt lưu hương trong hộp – Nhiều lựa chọn hương",
-          "image": "ecovina_images/items/hat_nothom.png"
+          "name": "Hạt Nở Thơm Phòng Celia 180g",
+          "desc": "Hạt nở tỏa hương tinh dầu dịu nhẹ: Hương Lavender & Hương Sea Salt / Comfor | Tự tỏa hương bền bỉ suốt 30-45 ngày",
+          "image": "ecovina_images/photos/photo_84.jpg",
+          "images": [
+            "ecovina_images/photos/photo_84.jpg",
+            "ecovina_images/photos/photo_38.jpg",
+            "ecovina_images/photos/photo_39.jpg",
+            "ecovina_images/photos/photo_40.jpg",
+            "ecovina_images/photos/photo_41.jpg"
+          ]
+        },
+        {
+          "name": "Cốc Thả Bồn Cầu Tự Động Sufor 180g",
+          "desc": "Cốc thả 180g công nghệ Nhật Bản – Hương Thảo Mộc & Hoa Cỏ | Tự động làm sạch, khử mùi và diệt khuẩn mỗi lần xả",
+          "image": "ecovina_images/photos/photo_34.jpg",
+          "images": [
+            "ecovina_images/photos/photo_34.jpg",
+            "ecovina_images/photos/photo_35.jpg",
+            "ecovina_images/photos/photo_36.jpg",
+            "ecovina_images/photos/photo_37.jpg"
+          ]
         }
       ],
       "highlights": [
@@ -132,7 +226,7 @@
     "name": "Giấy Vệ Sinh Việt Sơn Lâm",
     "category": "hoa-my-pham",
     "categoryLabel": "Giấy tiêu dùng",
-    "image": "ecovina_images/page_06.png",
+    "image": "ecovina_images/photos/photo_61.jpg",
     "shortDesc": "Cuộn lớn 500g – 900g, 3 lớp. 100% bột giấy nguyên sinh.",
     "features": [
       "6 quy cách",
@@ -143,34 +237,60 @@
       "intro": "Đa dạng trọng lượng và quy cách, phù hợp khách sạn, văn phòng và khu vực công cộng. Sản xuất trên dây chuyền hiện đại nhập khẩu 100%.",
       "products": [
         {
-          "name": "Cuộn Lớn 500g – 3 lớp",
-          "desc": "Gói lẻ tiện dụng",
-          "image": "ecovina_images/items/giay_cuon500g.png"
+          "name": "Giấy Vệ Sinh Công Nghiệp Cuộn 500g",
+          "desc": "Cuộn lớn 500g 3 lớp | 100% bột giấy nguyên sinh dai mềm, không bụi | Thích hợp khách sạn, nhà xưởng, tòa nhà văn phòng",
+          "image": "ecovina_images/photos/photo_61.jpg",
+          "images": [
+            "ecovina_images/photos/photo_61.jpg",
+            "ecovina_images/photos/photo_62.jpg",
+            "ecovina_images/items/giay_cuon500g.png"
+          ]
         },
         {
-          "name": "Cuộn Lớn 600g – 3 lớp",
-          "desc": "Gói lẻ tiện dụng",
-          "image": "ecovina_images/items/giay_cuon600g.png"
+          "name": "Giấy Vệ Sinh Công Nghiệp Cuộn 700g",
+          "desc": "Cuộn lớn 700g 3 lớp siêu tiết kiệm | Thấm hút vượt trội, an toàn cho da và thân thiện môi trường",
+          "image": "ecovina_images/photos/photo_63.jpg",
+          "images": [
+            "ecovina_images/photos/photo_63.jpg",
+            "ecovina_images/photos/photo_64.jpg",
+            "ecovina_images/items/giay_cuon700g.png"
+          ]
         },
         {
-          "name": "Cuộn Lớn 700g – 3 lớp",
-          "desc": "Gói lẻ tiện dụng",
-          "image": "ecovina_images/items/giay_cuon700g.png"
+          "name": "Giấy Vệ Sinh Công Nghiệp Cuộn 600g & 900g",
+          "desc": "Đa dạng trọng lượng 600g / 900g theo nhu cầu sử dụng thực tế của doanh nghiệp",
+          "image": "ecovina_images/items/giay_cuon900g.png",
+          "images": [
+            "ecovina_images/items/giay_cuon900g.png",
+            "ecovina_images/items/giay_cuon600g.png"
+          ]
         },
         {
-          "name": "Cuộn Lớn 900g – 3 lớp",
-          "desc": "Gói lẻ tiện dụng",
-          "image": "ecovina_images/items/giay_cuon900g.png"
+          "name": "Khăn Giấy Cuộn Vila 1.4KG Có Lõi (10 Cuộn)",
+          "desc": "Lốc 10 cuộn 1.4kg | Có lõi tiện lợi thay thế | Bột giấy nguyên chất siêu mịn",
+          "image": "ecovina_images/photos/photo_57.jpg",
+          "images": [
+            "ecovina_images/photos/photo_57.jpg",
+            "ecovina_images/photos/photo_58.jpg"
+          ]
         },
         {
-          "name": "10 Cuộn Có Lõi",
-          "desc": "Gói tiện dụng",
-          "image": "ecovina_images/items/giay_10cuon_coloi.png"
+          "name": "Giấy Vệ Sinh Vila 1.4KG Không Lõi (10 Cuộn)",
+          "desc": "Lốc 10 cuộn 1.4kg không lõi tiết kiệm tối đa diện tích và khối lượng giấy thực tế",
+          "image": "ecovina_images/photos/photo_59.jpg",
+          "images": [
+            "ecovina_images/photos/photo_59.jpg",
+            "ecovina_images/photos/photo_60.jpg"
+          ]
         },
         {
-          "name": "10 Cuộn Không Lõi",
-          "desc": "Gói tiện dụng",
-          "image": "ecovina_images/items/giay_10cuon_kloi.png"
+          "name": "Giấy Vệ Sinh Cao Cấp Việt Sơn Lâm Gói 1KG",
+          "desc": "Gói 1kg chất lượng cao cấp | Định lượng 17g/m2, trắng 80%, dập nổi hoa văn trang nhã",
+          "image": "ecovina_images/photos/photo_55.jpg",
+          "images": [
+            "ecovina_images/photos/photo_55.jpg",
+            "ecovina_images/photos/photo_56.jpg"
+          ]
         }
       ],
       "highlights": [
@@ -186,7 +306,7 @@
     "name": "Giấy Ăn & Giấy Lau Việt Sơn Lâm",
     "category": "hoa-my-pham",
     "categoryLabel": "Giấy tiêu dùng",
-    "image": "ecovina_images/page_06.png",
+    "image": "ecovina_images/photos/photo_49.jpg",
     "imageStyle": "object-position: right center",
     "shortDesc": "Giấy lau đa năng, giấy ăn, giấy lau tay – phù hợp nhà hàng, bếp.",
     "features": [
@@ -198,24 +318,34 @@
       "intro": "Giải pháp sạch, gọn và đồng bộ cho nhà hàng, bếp, phòng khách và khu rửa tay. 100% bột giấy nguyên sinh, nguyên chất.",
       "products": [
         {
-          "name": "Giấy Lau Đa Năng",
-          "desc": "Bích 100 tờ – mềm mại và thấm hút tốt",
-          "image": "ecovina_images/items/giay_laudanang.png"
+          "name": "Giấy Lau Tay Rút Đa Năng 100 Tờ",
+          "desc": "Gói 100 tờ rút tiện lợi | Dày dặn, dai mềm, thấm hút dầu mỡ và lau tay siêu sạch",
+          "image": "ecovina_images/photos/photo_49.jpg",
+          "images": [
+            "ecovina_images/photos/photo_49.jpg",
+            "ecovina_images/photos/photo_50.jpg",
+            "ecovina_images/items/giay_laudanang.png"
+          ]
         },
         {
-          "name": "Giấy Gấp Rút Phờ",
-          "desc": "Tiện dụng khi phục vụ",
-          "image": "ecovina_images/items/giay_gaprutpho.png"
+          "name": "Khăn Giấy Phở Gấp Size 10x10cm (Gói 400 tờ)",
+          "desc": "Khăn giấy vuông 10x10cm dập nổi hoa văn | 100% bột giấy nguyên sinh | Phù hợp nhà hàng, quán ăn, khách sạn",
+          "image": "ecovina_images/photos/photo_51.jpg",
+          "images": [
+            "ecovina_images/photos/photo_51.jpg",
+            "ecovina_images/photos/photo_52.jpg",
+            "ecovina_images/items/giay_gaprutpho.png"
+          ]
         },
         {
-          "name": "Giấy Ăn",
-          "desc": "Mềm mại và lịch sự",
-          "image": "ecovina_images/items/giay_an.png"
-        },
-        {
-          "name": "Giấy Lau Tay",
-          "desc": "Phù hợp khu vực công cộng",
-          "image": "ecovina_images/items/giay_lautay.png"
+          "name": "Giấy Ăn Gấp Cao Cấp Size 800G Việt Sơn Lâm",
+          "desc": "Gói lớn 800g mềm mại, thấm hút dầu mỡ vượt trội, đảm bảo vệ sinh an toàn thực phẩm",
+          "image": "ecovina_images/photos/photo_53.jpg",
+          "images": [
+            "ecovina_images/photos/photo_53.jpg",
+            "ecovina_images/photos/photo_54.jpg",
+            "ecovina_images/items/giay_an.png"
+          ]
         }
       ],
       "highlights": [
@@ -338,7 +468,7 @@
     "name": "Khăn & Áo Choàng Khách Sạn",
     "category": "det-may",
     "categoryLabel": "Dệt may",
-    "image": "ecovina_images/page_10.png",
+    "image": "ecovina_images/photos/photo_01.jpg",
     "shortDesc": "Khăn thêu/dệt logo, khăn trơn, áo choàng bông – thiết kế theo yêu cầu.",
     "features": [
       "Thêu/In logo",
@@ -349,54 +479,69 @@
       "intro": "Bộ sưu tập khăn và áo choàng cao cấp dành cho khách sạn, resort và SPA – thiết kế và thêu logo theo yêu cầu riêng.",
       "products": [
         {
-          "name": "Khăn Thêu Logo",
-          "desc": "Thiết kế logo nổi bật, sang trọng",
-          "image": "ecovina_images/items/khan_theulogo.png"
+          "name": "Khăn Thêu Logo 100% Cotton",
+          "desc": "Sợi bông 100% cotton chải kỹ 32/2 mềm mại | Nhận thêu dệt logo khách sạn theo yêu cầu",
+          "image": "ecovina_images/photos/photo_01.jpg",
+          "images": [
+            "ecovina_images/photos/photo_01.jpg",
+            "ecovina_images/photos/photo_11.jpg",
+            "ecovina_images/items/khan_theulogo.png"
+          ]
         },
         {
-          "name": "Khăn Dệt Logo",
-          "desc": "Logo được dệt trực tiếp vào vải",
-          "image": "ecovina_images/items/khan_detlogo.png"
+          "name": "Khăn Dệt Logo Dập Nổi Chữ HOTEL",
+          "desc": "Dệt logo hoa văn dập chìm/nổi trực tiếp trên sợi vải | Bền màu, không bai xù khi giặt công nghiệp",
+          "image": "ecovina_images/photos/photo_02.jpg",
+          "images": [
+            "ecovina_images/photos/photo_02.jpg",
+            "ecovina_images/photos/photo_03.jpg",
+            "ecovina_images/items/khan_detlogo.png"
+          ]
         },
         {
-          "name": "Khăn Trơn",
-          "desc": "Trắng tinh, phù hợp khách sạn mọi phân khúc",
-          "image": "ecovina_images/items/khan_tron.png"
+          "name": "Khăn Bông Trơn Khách Sạn Cao Cấp",
+          "desc": "Đủ kích thước: Khăn mặt 34x34cm, Khăn tay 34x70cm, Khăn tắm 70x140cm (500g/600g)",
+          "image": "ecovina_images/photos/photo_03.jpg",
+          "images": [
+            "ecovina_images/photos/photo_03.jpg",
+            "ecovina_images/photos/photo_11.jpg",
+            "ecovina_images/items/khan_tron.png"
+          ]
         },
         {
-          "name": "Khăn Màu Bể Bơi/SPA",
-          "desc": "Màu sắc đặc trưng theo yêu cầu",
-          "image": "ecovina_images/items/khan_beboi_spa.png"
+          "name": "Thảm Chân Khách Sạn Sợi Bông Dày",
+          "desc": "Thảm chân dệt viền khung sang trọng, sợi cotton kép dày dặn chống trơn trượt",
+          "image": "ecovina_images/photos/photo_04.jpg",
+          "images": [
+            "ecovina_images/photos/photo_04.jpg",
+            "ecovina_images/items/tham_chan.png"
+          ]
         },
         {
-          "name": "Thảm Chân",
-          "desc": "Mềm mại, thấm hút tốt",
-          "image": "ecovina_images/items/tham_chan.png"
+          "name": "Áo Choàng Tắm Sợi Bông Tự Nhiên",
+          "desc": "Chất liệu 100% Cotton bông xốp mềm mại, thấm hút nước tức thì sau khi tắm",
+          "image": "ecovina_images/photos/photo_05.jpg",
+          "images": [
+            "ecovina_images/photos/photo_05.jpg",
+            "ecovina_images/items/aochoang_bong.png"
+          ]
         },
         {
-          "name": "Khăn Quà Tặng",
-          "desc": "Đóng gói đẹp, phù hợp làm quà",
-          "image": "ecovina_images/items/khan_quatang.png"
+          "name": "Áo Choàng Tắm Dệt Tổ Ong Thoáng Mát",
+          "desc": "Kiểu dệt Waffle tổ ong nhẹ thoáng khí, nhanh khô, thiết kế tay kimono sang trọng",
+          "image": "ecovina_images/photos/photo_06.jpg",
+          "images": [
+            "ecovina_images/photos/photo_06.jpg",
+            "ecovina_images/items/aochoang_toong.png"
+          ]
         },
         {
-          "name": "Áo Choàng Bông",
-          "desc": "Sang trọng, mềm mại",
-          "image": "ecovina_images/items/aochoang_bong.png"
-        },
-        {
-          "name": "Áo Choàng Hoạ Tiết Theo Yêu Cầu",
-          "desc": "Thiết kế độc đáo theo thương hiệu",
-          "image": "ecovina_images/items/aochoang_hoatiet.png"
-        },
-        {
-          "name": "Áo Choàng Tổ Ong",
-          "desc": "Chất liệu đặc biệt, thoáng mát",
-          "image": "ecovina_images/items/aochoang_toong.png"
-        },
-        {
-          "name": "Áo Choàng Tắm Nhiều Màu",
-          "desc": "Đa dạng màu sắc theo phân khu",
-          "image": "ecovina_images/items/aochoang_nhieumau.png"
+          "name": "Khăn Màu Bể Bơi & Khăn SPA",
+          "desc": "Khăn tắm hồ bơi khổ lớn nhuộm màu công nghệ cao bền màu với nước clo",
+          "image": "ecovina_images/items/khan_beboi_spa.png",
+          "images": [
+            "ecovina_images/items/khan_beboi_spa.png"
+          ]
         }
       ],
       "highlights": [
@@ -412,7 +557,7 @@
     "name": "Dép Khách Sạn & Túi Giặt Là",
     "category": "det-may",
     "categoryLabel": "Dệt may",
-    "image": "ecovina_images/page_11.png",
+    "image": "ecovina_images/photos/photo_07.jpg",
     "shortDesc": "Dép nhiều chất liệu, túi giặt là in logo – sản xuất & phân phối giá gốc.",
     "features": [
       "Nhiều chất liệu",
@@ -423,59 +568,50 @@
       "intro": "Dép vải kín mũi, hở mũi. Đủ chất liệu, màu sắc. Ecovina nhận sản xuất theo yêu cầu. Túi giặt là sản xuất và phân phối giá gốc.",
       "products": [
         {
-          "name": "Dép Vải Tổ Ong Kín Mũi",
-          "desc": "Mềm mại, thoáng khí",
-          "image": "ecovina_images/items/dep_toong_kinmui.png"
-        },
-        {
-          "name": "Dép Vải Terry Kín Mũi",
-          "desc": "Chất liệu khăn bông cao cấp",
-          "image": "ecovina_images/items/dep_terry_kinmui.png"
-        },
-        {
           "name": "Dép Vải Tricot Thái Cao Hở Mũi",
-          "desc": "Phong cách spa thư giãn",
-          "image": "ecovina_images/items/dep_tricot_homui.png"
+          "desc": "Vải Tricot viền chỉ nâu cao cấp | Đế chống trơn, êm chân và thoáng khí",
+          "image": "ecovina_images/photos/photo_07.jpg",
+          "images": [
+            "ecovina_images/photos/photo_07.jpg",
+            "ecovina_images/items/dep_tricot_homui.png"
+          ]
         },
         {
-          "name": "Dép Vải 1 Lần Vải Lanh",
-          "desc": "Tiết kiệm, dùng 1 lần",
-          "image": "ecovina_images/items/dep_1lan_vailanh.png"
+          "name": "Dép Vải Tổ Ong Kín Mũi",
+          "desc": "Họa tiết tổ ong sang trọng | Đế EVA dày dặn chống trượt",
+          "image": "ecovina_images/photos/photo_08.jpg",
+          "images": [
+            "ecovina_images/photos/photo_08.jpg",
+            "ecovina_images/items/dep_toong_kinmui.png"
+          ]
         },
         {
-          "name": "Dép Vải 1 Lần Vải Không Dệt",
-          "desc": "Tiết kiệm, dùng 1 lần",
-          "image": "ecovina_images/items/dep_1lan_khongdet.png"
+          "name": "Dép Vải 1 Lần Không Dệt (Xám / Trắng)",
+          "desc": "Dép dùng 1 lần vải không dệt tiện lợi, tiết kiệm chi phí cho khách sạn và resort",
+          "image": "ecovina_images/photos/photo_09.jpg",
+          "images": [
+            "ecovina_images/photos/photo_09.jpg",
+            "ecovina_images/items/dep_1lan_khongdet.png"
+          ]
         },
         {
-          "name": "Dép Khách Sạn EVA Hở Mũi",
-          "desc": "Nhẹ, bền, dễ vệ sinh",
-          "image": "ecovina_images/items/dep_eva_homui.png"
+          "name": "Dép Xốp Đi Trong Nhà Tắm & Hồ Bơi",
+          "desc": "Dép nhựa xốp nguyên khối siêu nhẹ, thoát nước nhanh, nhiều màu sắc",
+          "image": "ecovina_images/photos/photo_10.jpg",
+          "images": [
+            "ecovina_images/photos/photo_10.jpg",
+            "ecovina_images/items/dep_xop_sieunhe.png"
+          ]
         },
         {
-          "name": "Dép Tông Quai Nhám/Quai Trong",
-          "desc": "Bền chắc, nhiều màu",
-          "image": "ecovina_images/items/dep_tong_nham.png"
-        },
-        {
-          "name": "Dép Xốp Khách Sạn Siêu Nhẹ",
-          "desc": "Nhẹ và tiện dụng",
-          "image": "ecovina_images/items/dep_xop_sieunhe.png"
-        },
-        {
-          "name": "Túi Giặt Là Vải Không Dệt",
-          "desc": "Size 35×50cm, 40×60cm",
-          "image": "ecovina_images/items/tui_giat_khongdet.png"
-        },
-        {
-          "name": "Túi Giặt Là Nilon Quai Xách",
-          "desc": "20×30, 25×35, 30×42, 35×50cm",
-          "image": "ecovina_images/items/tui_giat_nilon.png"
-        },
-        {
-          "name": "Túi Vệ Sinh Tự Huỷ",
-          "desc": "10×25cm hoặc kích thước riêng",
-          "image": "ecovina_images/items/tui_vesinh_tuhuy.png"
+          "name": "Túi Giặt Là & Túi Vệ Sinh Tự Hủy",
+          "desc": "Túi vải không dệt in logo & túi nilon quai xách thân thiện môi trường",
+          "image": "ecovina_images/items/tui_giat_khongdet.png",
+          "images": [
+            "ecovina_images/items/tui_giat_khongdet.png",
+            "ecovina_images/items/tui_giat_nilon.png",
+            "ecovina_images/items/tui_vesinh_tuhuy.png"
+          ]
         }
       ],
       "highlights": [
@@ -537,7 +673,7 @@
     "name": "Bình Sứ Bát Tràng Đựng Dung Dịch",
     "category": "gom-su",
     "categoryLabel": "Gốm sứ Bát Tràng",
-    "image": "ecovina_images/page_15.png",
+    "image": "ecovina_images/photos/photo_66.jpg",
     "shortDesc": "Đa dạng kiểu dáng từ 150ml đến 370ml – thiết kế và in logo theo yêu cầu.",
     "features": [
       "Gốm Bát Tràng",
@@ -548,64 +684,95 @@
       "intro": "Bình sứ gốm Bát Tràng cao cấp – sang trọng, bền đẹp, phù hợp phòng tắm khách sạn 4–5 sao. Thiết kế và in logo theo yêu cầu.",
       "products": [
         {
-          "name": "Bình Xoài Nhỏ",
-          "desc": "Gốm sứ Bát Tràng | KT: 6×10.5cm | 200ml",
-          "image": "ecovina_images/items/binh_xoai_nho.png"
+          "name": "Bình Thang Bầu Vân Vàng Men Sứ",
+          "desc": "Men bóng vân vàng nghệ thuật hoàng gia | Vòi pump inox mạ crom sáng bóng | Đựng sữa tắm & nước rửa tay",
+          "image": "ecovina_images/photos/photo_66.jpg",
+          "images": [
+            "ecovina_images/photos/photo_66.jpg",
+            "ecovina_images/photos/photo_67.jpg"
+          ]
         },
         {
-          "name": "Bình Trứng",
-          "desc": "Gốm sứ Bát Tràng | KT: 7.5×10cm | 250ml",
-          "image": "ecovina_images/items/binh_trung.png"
+          "name": "Bình Chữ Nhật 300ML Vân Đá Hồng Cẩm Thạch",
+          "desc": "Dáng chữ nhật 300ml men vân đá hồng sang trọng | Vòi pump inox cao cấp",
+          "image": "ecovina_images/photos/photo_74.jpg",
+          "images": [
+            "ecovina_images/photos/photo_74.jpg",
+            "ecovina_images/photos/photo_75.jpg"
+          ]
         },
         {
-          "name": "Bình Dáng",
-          "desc": "Gốm sứ Bát Tràng | KT: 7×7×12cm | 340ml",
-          "image": "ecovina_images/items/binh_dang.png"
+          "name": "Bình Chóp Vân Đá Xanh Ngọc 450ML",
+          "desc": "Dáng chóp lớn 450ml độc đáo | Vân đá xanh ngọc bích phong cách resort đẳng cấp",
+          "image": "ecovina_images/photos/photo_78.jpg",
+          "images": [
+            "ecovina_images/photos/photo_78.jpg",
+            "ecovina_images/photos/photo_79.jpg"
+          ]
         },
         {
-          "name": "Bình Sứ Trụ Đứng",
-          "desc": "Gốm sứ Bát Tràng | KT: 6.5×14cm | 300ml",
-          "image": "ecovina_images/items/binh_trudung.png"
+          "name": "Bình Sò 280ML Men Trắng Sứ Bát Tràng",
+          "desc": "Thiết kế dáng vỏ sò độc đáo 280ml | Men trắng sứ ngọc tinh khiết cho phòng tắm phong cách biển",
+          "image": "ecovina_images/photos/photo_72.jpg",
+          "images": [
+            "ecovina_images/photos/photo_72.jpg",
+            "ecovina_images/photos/photo_73.jpg"
+          ]
         },
         {
-          "name": "Bình Vuông Lớn",
-          "desc": "Gốm sứ Bát Tràng | KT: 6×6×13cm | 370ml",
-          "image": "ecovina_images/items/binh_vuong_lon.png"
+          "name": "Bình Tròn Dài 200ML Men Xanh Rêu Vòi Vàng",
+          "desc": "Dáng tròn dài thon gọn | Men xanh rêu cổ điển kết hợp vòi nhấn mạ vàng gold cao cấp",
+          "image": "ecovina_images/photos/photo_68.jpg",
+          "images": [
+            "ecovina_images/photos/photo_68.jpg",
+            "ecovina_images/photos/photo_69.jpg"
+          ]
         },
         {
-          "name": "Bình Vuông Nhỏ",
-          "desc": "Gốm sứ Bát Tràng | KT: 6.5×6.5×10.5cm | 240ml",
-          "image": "ecovina_images/items/binh_vuong_nho.png"
+          "name": "Bình Thang 200ML Men Vàng Cát & Đen Bóng",
+          "desc": "Bộ bình thang hiện đại 200ml vòi vàng / bạc | Thích hợp mọi không gian khách sạn",
+          "image": "ecovina_images/photos/photo_70.jpg",
+          "images": [
+            "ecovina_images/photos/photo_70.jpg",
+            "ecovina_images/photos/photo_71.jpg"
+          ]
         },
         {
-          "name": "Bình Oval",
-          "desc": "Gốm sứ Bát Tràng | KT: 7.5×6×10.5cm | 250ml",
-          "image": "ecovina_images/items/binh_oval.png"
+          "name": "Bình Vuông 250ML Men Vân Cát Mịn",
+          "desc": "Dáng vuông khối vững chãi 250ml | Men cát nhám sang trọng, tinh tế",
+          "image": "ecovina_images/photos/photo_76.jpg",
+          "images": [
+            "ecovina_images/photos/photo_76.jpg",
+            "ecovina_images/photos/photo_77.jpg"
+          ]
         },
         {
-          "name": "Bình Chữ Nhật",
-          "desc": "Gốm sứ Bát Tràng | 340ml",
-          "image": "ecovina_images/items/binh_chunhat.png"
+          "name": "Cốc Gốm Đựng Bàn Chải Dáng Trụ Tròn",
+          "desc": "Cốc sứ Bát Tràng men bóng mịn đựng bàn chải, kem đánh răng hoặc đồ cá nhân phòng tắm",
+          "image": "ecovina_images/photos/photo_65.jpg",
+          "images": [
+            "ecovina_images/photos/photo_65.jpg"
+          ]
         },
         {
-          "name": "Bình Thang Nhỏ",
-          "desc": "Gốm sứ Bát Tràng | KT: 6.5×6.5×10.5cm | 200ml",
-          "image": "ecovina_images/items/binh_thang_nho.png"
+          "name": "Cốc Sứ Men Hỏa Biến & Men Chảy Bát Tràng",
+          "desc": "Bộ sưu tập cốc gốm thủ công men hỏa biến 7 sắc màu và cốc men chảy giữ nhiệt hoàn hảo",
+          "image": "ecovina_images/photos/photo_81.jpg",
+          "images": [
+            "ecovina_images/photos/photo_81.jpg",
+            "ecovina_images/photos/photo_80.jpg",
+            "ecovina_images/photos/photo_82.jpg",
+            "ecovina_images/photos/photo_83.jpg"
+          ]
         },
         {
-          "name": "Bình Chuông Nhỏ",
-          "desc": "Gốm sứ Bát Tràng | KT: 9×9×7.5cm | 260ml",
-          "image": "ecovina_images/items/binh_chuong_nho.png"
-        },
-        {
-          "name": "Bình Chuông Lớn",
-          "desc": "Gốm sứ Bát Tràng | KT: 9×9×9.3cm | 350ml",
-          "image": "ecovina_images/items/binh_chuong_lon.png"
-        },
-        {
-          "name": "Bình Dáng Vuông Nhỏ",
-          "desc": "Gốm sứ Bát Tràng | KT: 5×5×5cm | 150ml",
-          "image": "ecovina_images/items/binh_dang_vuongnho.png"
+          "name": "Bình Xoài Nhỏ & Bình Trứng",
+          "desc": "Bình sứ Bát Tràng dáng xoài nhỏ và dáng quả trứng truyền thống",
+          "image": "ecovina_images/items/binh_xoai_nho.png",
+          "images": [
+            "ecovina_images/items/binh_xoai_nho.png",
+            "ecovina_images/items/binh_trung.png"
+          ]
         }
       ],
       "highlights": [

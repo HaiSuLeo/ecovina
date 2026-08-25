@@ -294,14 +294,9 @@ function updateSlideView(idx) {
   // 2. Smoothly update image
   var mainImg = document.getElementById('slideMainImg');
   if (mainImg) {
-    if (mainImg.src !== itemImage) {
-      mainImg.style.opacity = '0.4';
-      mainImg.src = itemImage;
-      mainImg.alt = item.name;
-      mainImg.onload = function () {
-        mainImg.style.opacity = '1';
-      };
-    }
+    mainImg.src = itemImage;
+    mainImg.alt = item.name;
+    mainImg.style.opacity = '1';
   }
 
   // 3. Multi-image gallery strip
@@ -321,9 +316,8 @@ function updateSlideView(idx) {
           e.stopPropagation();
           var chosenImg = thumb.getAttribute('data-img');
           if (mainImg) {
-            mainImg.style.opacity = '0.3';
             mainImg.src = chosenImg;
-            mainImg.onload = function () { mainImg.style.opacity = '1'; };
+            mainImg.style.opacity = '1';
           }
           galleryStrip.querySelectorAll('.gallery-thumb').forEach(function (t) { t.classList.remove('active'); });
           thumb.classList.add('active');
