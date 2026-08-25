@@ -259,10 +259,13 @@ function buildModalDOM(product) {
     '</div>' +
 
     // Clean Footer with Dots & Contact Note
-    '<div class="modal-footer">' +
-      '<p class="modal-contact-note">💡 ' + d.contact + '</p>' +
-      (total > 1 ? '<div class="slide-dots-wrap">' + dotsHtml + '</div>' : '') +
-    '</div>';
+    (function () {
+      var contactNote = (d && d.contact) ? d.contact : 'Liên hệ trực tiếp với Ecovina để nhận báo giá chi tiết và ưu đãi tốt nhất.';
+      return '<div class="modal-footer">' +
+        '<p class="modal-contact-note">💡 ' + contactNote + '</p>' +
+        (total > 1 ? '<div class="slide-dots-wrap">' + dotsHtml + '</div>' : '') +
+      '</div>';
+    })();
 
   // Attach event listeners to modal shell
   attachModalEvents();

@@ -21,8 +21,7 @@
           "images": [
             "ecovina_images/photos/photo_86.jpg",
             "ecovina_images/photos/photo_18.jpg",
-            "ecovina_images/photos/photo_19.jpg",
-            "ecovina_images/photos/sufor_nuocgiat.png"
+            "ecovina_images/photos/photo_19.jpg"
           ]
         },
         {
@@ -104,8 +103,7 @@
             "ecovina_images/photos/photo_25.jpg",
             "ecovina_images/photos/photo_89.jpg",
             "ecovina_images/photos/photo_27.jpg",
-            "ecovina_images/photos/photo_26.jpg",
-            "ecovina_images/photos/sufor_laukinh.png"
+            "ecovina_images/photos/photo_26.jpg"
           ]
         },
         {
@@ -137,8 +135,7 @@
           "desc": "Chai 1KG công nghệ Max Attack X2 Power | Diệt khuẩn 99.9%, tẩy sạch ố vàng cực nhanh, không độc hại cho đường ống",
           "images": [
             "ecovina_images/photos/photo_42.jpg",
-            "ecovina_images/photos/photo_43.jpg",
-            "ecovina_images/photos/sufor_coboncau.png"
+            "ecovina_images/photos/photo_43.jpg"
           ]
         }
       ],
@@ -226,8 +223,7 @@
           "desc": "Cuộn lớn 500g 3 lớp | 100% bột giấy nguyên sinh dai mềm, không bụi | Thích hợp khách sạn, nhà xưởng, tòa nhà",
           "images": [
             "ecovina_images/photos/photo_61.jpg",
-            "ecovina_images/photos/photo_62.jpg",
-            "ecovina_images/photos/giay_cuon500g.png"
+            "ecovina_images/photos/photo_62.jpg"
           ]
         },
         {
@@ -235,8 +231,7 @@
           "desc": "Cuộn lớn 700g 3 lớp siêu tiết kiệm | Thấm hút vượt trội, an toàn cho da và thân thiện môi trường",
           "images": [
             "ecovina_images/photos/photo_63.jpg",
-            "ecovina_images/photos/photo_64.jpg",
-            "ecovina_images/photos/giay_cuon700g.png"
+            "ecovina_images/photos/photo_64.jpg"
           ]
         },
         {
@@ -260,8 +255,7 @@
           "desc": "Gói 100 tờ rút tiện lợi | Dày dặn, dai mềm, thấm hút dầu mỡ và lau tay siêu sạch",
           "images": [
             "ecovina_images/photos/photo_49.jpg",
-            "ecovina_images/photos/photo_50.jpg",
-            "ecovina_images/photos/giay_laudanang.png"
+            "ecovina_images/photos/photo_50.jpg"
           ]
         },
         {
@@ -269,8 +263,7 @@
           "desc": "Khăn giấy vuông 10x10cm dập nổi hoa văn | 100% bột giấy nguyên sinh | Phù hợp nhà hàng, quán ăn, khách sạn",
           "images": [
             "ecovina_images/photos/photo_51.jpg",
-            "ecovina_images/photos/photo_52.jpg",
-            "ecovina_images/photos/giay_gaprutpho.png"
+            "ecovina_images/photos/photo_52.jpg"
           ]
         },
         {
@@ -278,8 +271,7 @@
           "desc": "Gói lớn 800g mềm mại, thấm hút dầu mỡ vượt trội, đảm bảo vệ sinh an toàn thực phẩm",
           "images": [
             "ecovina_images/photos/photo_53.jpg",
-            "ecovina_images/photos/photo_54.jpg",
-            "ecovina_images/photos/giay_an.png"
+            "ecovina_images/photos/photo_54.jpg"
           ]
         }
       ],
@@ -310,7 +302,6 @@
           "name": "Túi Đựng Rác Công Nghiệp Có Quai (5kg - 50kg)",
           "desc": "Loại có quai tiện dụng | Nhựa HDPE/LDPE dẻo dai, chịu lực cực tốt, không bục rách rò rỉ nước | Kích thước đa dạng 5kg, 10kg, 20kg, 30kg, 50kg",
           "images": [
-            "ecovina_images/photos/tui_rac_congnghiep.png",
             "ecovina_images/photos/tui_rac_cover.jpg"
           ]
         },
@@ -318,7 +309,6 @@
           "name": "Túi Rác Cuộn / Túi Rời Không Quai",
           "desc": "Dạng cuộn có đường xé tiện lợi hoặc túi rời đóng theo kg | Dùng cho khách sạn, nhà hàng, tòa nhà văn phòng và gia đình",
           "images": [
-            "ecovina_images/photos/tui_rac_congnghiep.png",
             "ecovina_images/photos/tui_rac_cover.jpg"
           ]
         },
@@ -326,8 +316,7 @@
           "name": "Túi Rác Phân Loại Màu Đen, Xanh, Vàng",
           "desc": "Quy chuẩn phân loại rác thải y tế, rác hữu cơ, vô cơ | Bền chắc, không mùi hôi khó chịu",
           "images": [
-            "ecovina_images/photos/tui_rac_cover.jpg",
-            "ecovina_images/photos/tui_rac_congnghiep.png"
+            "ecovina_images/photos/tui_rac_cover.jpg"
           ]
         }
       ],
@@ -409,8 +398,7 @@
           "desc": "Sợi bông 100% cotton chải kỹ 32/2 mềm mại | Nhận thêu dệt logo khách sạn theo yêu cầu",
           "images": [
             "ecovina_images/photos/photo_01.jpg",
-            "ecovina_images/photos/photo_11.jpg",
-            "ecovina_images/photos/khan_theulogo.png"
+            "ecovina_images/photos/photo_11.jpg"
           ]
         },
         {
@@ -418,56 +406,49 @@
           "desc": "Dệt logo hoa văn dập chìm/nổi trực tiếp trên sợi vải | Bền màu, không bai xù khi giặt công nghiệp",
           "images": [
             "ecovina_images/photos/photo_02.jpg",
-            "ecovina_images/photos/photo_03.jpg",
-            "ecovina_images/photos/khan_detlogo.png"
+            "ecovina_images/photos/photo_03.jpg"
           ]
         },
         {
           "name": "Áo Choàng Tắm Sợi Bông Tự Nhiên",
           "desc": "Chất liệu 100% Cotton bông xốp mềm mại, thấm hút nước tức thì sau khi tắm",
           "images": [
-            "ecovina_images/photos/photo_05.jpg",
-            "ecovina_images/photos/aochoang_bong.png"
+            "ecovina_images/photos/photo_05.jpg"
           ]
         },
         {
           "name": "Áo Choàng Tắm Dệt Tổ Ong Thoáng Mát",
           "desc": "Kiểu dệt Waffle tổ ong nhẹ thoáng khí, nhanh khô, thiết kế tay kimono sang trọng",
           "images": [
-            "ecovina_images/photos/photo_06.jpg",
-            "ecovina_images/photos/aochoang_toong.png"
+            "ecovina_images/photos/photo_06.jpg"
           ]
         },
         {
           "name": "Thảm Chân Khách Sạn Sợi Bông Dày",
           "desc": "Thảm chân dệt viền khung sang trọng, sợi cotton kép dày dặn chống trơn trượt",
           "images": [
-            "ecovina_images/photos/photo_04.jpg",
-            "ecovina_images/photos/tham_chan.png"
+            "ecovina_images/photos/photo_04.jpg"
           ]
         },
         {
           "name": "Dép Vải Tricot Thái Hở Mũi Cao Cấp",
           "desc": "Vải Tricot viền chỉ nâu cao cấp | Đế chống trơn, êm chân và thoáng khí",
           "images": [
-            "ecovina_images/photos/photo_07.jpg",
-            "ecovina_images/photos/dep_tricot_homui.png"
+            "ecovina_images/photos/photo_07.jpg"
           ]
         },
         {
           "name": "Dép Vải Tổ Ong Kín Mũi Sang Trọng",
           "desc": "Họa tiết tổ ong sang trọng | Đế EVA dày dặn chống trượt",
           "images": [
-            "ecovina_images/photos/photo_08.jpg",
-            "ecovina_images/photos/dep_toong_kinmui.png"
+            "ecovina_images/photos/photo_08.jpg"
           ]
         },
         {
           "name": "Dép Vải 1 Lần Không Dệt (Xám / Trắng)",
           "desc": "Dép dùng 1 lần vải không dệt tiện lợi, tiết kiệm chi phí cho khách sạn và resort",
           "images": [
-            "ecovina_images/photos/photo_09.jpg",
-            "ecovina_images/photos/dep_1lan_khongdet.png"
+            "ecovina_images/photos/photo_09.jpg"
           ]
         },
         {
