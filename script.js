@@ -321,6 +321,17 @@ function updateSlideView(idx) {
           }
           galleryStrip.querySelectorAll('.gallery-thumb').forEach(function (t) { t.classList.remove('active'); });
           thumb.classList.add('active');
+
+          // Sync lightbox if currently open
+          if (lightboxOverlay && lightboxOverlay.classList.contains('open') && lightboxImg) {
+            lightboxImg.src = chosenImg;
+            if (lightboxGalleryStrip) {
+              lightboxGalleryStrip.querySelectorAll('.lightbox-thumb').forEach(function (lt) {
+                var lSrc = lt.getAttribute('data-img');
+                lt.classList.toggle('active', lSrc === chosenImg || chosenImg.indexOf(lSrc) !== -1);
+              });
+            }
+          }
         });
       });
     } else {
@@ -528,13 +539,14 @@ if (modalOverlay) {
 // ============================================================
 // 5B. LIGHTBOX IMAGE VIEWER & NAVIGATION
 // ============================================================
-var lightboxOverlay = document.getElementById('lightboxOverlay');
-var lightboxImg     = document.getElementById('lightboxImg');
-var lightboxCaption = document.getElementById('lightboxCaption');
-var lightboxCounter = document.getElementById('lightboxCounter');
-var lightboxClose   = document.getElementById('lightboxClose');
-var lightboxPrev    = document.getElementById('lightboxPrev');
-var lightboxNext    = document.getElementById('lightboxNext');
+var lightboxOverlay      = document.getElementById('lightboxOverlay');
+var lightboxImg          = document.getElementById('lightboxImg');
+var lightboxGalleryStrip = document.getElementById('lightboxGalleryStrip');
+var lightboxCaption      = document.getElementById('lightboxCaption');
+var lightboxCounter      = document.getElementById('lightboxCounter');
+var lightboxClose        = document.getElementById('lightboxClose');
+var lightboxPrev         = document.getElementById('lightboxPrev');
+var lightboxNext         = document.getElementById('lightboxNext');
 
 function openLightbox(src, caption, counterText) {
   if (!lightboxOverlay || !lightboxImg) return;
@@ -545,6 +557,49 @@ function openLightbox(src, caption, counterText) {
     var total = (activeProduct && activeProduct.details.products) ? activeProduct.details.products.length : 1;
     lightboxCounter.textContent = counterText || ('Mẫu ' + (activeSlideIdx + 1) + ' / ' + total);
   }
+
+  // Render lightbox gallery strip if multiple photos exist for this item
+  if (lightboxGalleryStrip) {
+    var item = (activeProduct && activeProduct.details.products) ? activeProduct.details.products[activeSlideIdx] : null;
+    var itemImages = (item && item.images && item.images.length > 0) ? item.images : [];
+    if (itemImages.length > 1) {
+      lightboxGalleryStrip.style.display = 'flex';
+      lightboxGalleryStrip.innerHTML = itemImages.map(function (imgSrc) {
+        var isAct = (src.indexOf(imgSrc) !== -1 || imgSrc.indexOf(src) !== -1);
+        return '<button class="lightbox-thumb' + (isAct ? ' active' : '') + '" data-img="' + imgSrc + '" title="Xem góc chụp">' +
+          '<img src="' + imgSrc + '" alt="Thumbnail"/>' +
+        '</button>';
+      }).join('');
+
+      lightboxGalleryStrip.querySelectorAll('.lightbox-thumb').forEach(function (thumb) {
+        thumb.addEventListener('click', function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          var chosenImg = thumb.getAttribute('data-img');
+          lightboxImg.src = chosenImg;
+          lightboxGalleryStrip.querySelectorAll('.lightbox-thumb').forEach(function (t) { t.classList.remove('active'); });
+          thumb.classList.add('active');
+
+          // Synchronize main image in modal
+          var mainImg = document.getElementById('slideMainImg');
+          if (mainImg) {
+            mainImg.src = chosenImg;
+          }
+          var modalStrip = document.getElementById('slideGalleryStrip');
+          if (modalStrip) {
+            modalStrip.querySelectorAll('.gallery-thumb').forEach(function (mt) {
+              var mSrc = mt.getAttribute('data-img');
+              mt.classList.toggle('active', mSrc === chosenImg || chosenImg.indexOf(mSrc) !== -1);
+            });
+          }
+        });
+      });
+    } else {
+      lightboxGalleryStrip.style.display = 'none';
+      lightboxGalleryStrip.innerHTML = '';
+    }
+  }
+
   lightboxOverlay.classList.add('open');
 }
 
