@@ -18,7 +18,7 @@ img/
 img/*
 
 # Tránh lặp: Chỉ giữ duy nhất public/ecovina_images
-ecovina_images/
+/ecovina_images/
 
 # Editor & OS files
 .vscode/*
