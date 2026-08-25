@@ -338,7 +338,7 @@
     "name": "Túi Đựng Rác Công Nghiệp",
     "category": "gian-phong",
     "categoryLabel": "Vận hành phòng",
-    "image": "ecovina_images/pages/page_07_trash.jpg",
+    "image": "ecovina_images/photos/tui_rac_cover.jpg",
     "shortDesc": "Loại có quai & không quai. Nhựa dai, chắc chắn. Nhiều size 5–50kg.",
     "features": [
       "Dai chắc",
@@ -384,75 +384,53 @@
     }
   },
   {
-    "id": "may-say-toc-honeyson",
-    "name": "Máy Sấy Tóc Gấp Gọn Honeyson",
+    "id": "may-say-toc-khach-san",
+    "name": "Máy Sấy Tóc Khách Sạn",
     "category": "thiet-bi",
-    "categoryLabel": "Thiết bị phòng",
+    "categoryLabel": "Thiết bị buồng phòng",
     "image": "ecovina_images/pages/page_08.jpg",
-    "shortDesc": "Honeyson F21 (1600W) & F6 (1400W) – gấp gọn tiện dụng, bảo hành 12 tháng.",
+    "shortDesc": "Máy sấy tóc gấp gọn Honeyson F21/F6 và máy sấy gắn tường Yigao YG313D chuyên dụng.",
     "features": [
-      "1400–1600W",
-      "Tiếng ồn nhỏ",
-      "Bảo hành 12T"
+      "Honeyson & Yigao",
+      "Gấp gọn & Gắn tường",
+      "1000W – 1600W",
+      "Bảo hành 12 tháng"
     ],
     "details": {
-      "intro": "Máy sấy tóc gấp gọn chuyên dụng cho phòng khách sạn. Thiết kế gấp gọn tiện sử dụng, đầu nắp tròn tháo rời được.",
+      "intro": "Bộ sản phẩm máy sấy tóc chuyên dụng cho khách sạn, resort: Dòng gấp gọn Honeyson tiện lợi công suất lớn và dòng gắn tường Yigao an toàn chống giật.",
       "products": [
         {
-          "name": "Honeyson F21",
-          "desc": "Mã: F21 | Công suất: 1600W | Điện áp: 220–240V | KT: 12.6×7.8×20cm | 2 mức nhiệt | ABS cao cấp, không mùi | Động cơ AC ổn định, tiếng ồn nhỏ | Bảo hành 12 tháng",
+          "name": "Máy Sấy Tóc Gấp Gọn Honeyson F21 (1600W)",
+          "desc": "Mã F21 | Thiết kế gấp gọn tiện dụng | Công suất 1600W mạnh mẽ, 2 mức gió + chế độ sấy mát | Nhựa ABS chống nóng, dây xoắn đàn hồi | Bảo hành 12 tháng",
           "images": [
-            "ecovina_images/photos/honeyson_f21.png"
+            "ecovina_images/photos/honeyson_f21.png",
+            "ecovina_images/pages/page_08.jpg"
           ]
         },
         {
-          "name": "Honeyson F6",
-          "desc": "Mã: F6 | Công suất: 1400W | Điện áp: 220V–50Hz | KT: 15.5×7.7×20cm | 3 mức nhiệt | ABS cao cấp, không mùi | Máy chạy êm, bền bỉ, tiết kiệm điện | Bảo hành 12 tháng",
+          "name": "Máy Sấy Tóc Gấp Gọn Honeyson F6 (1400W)",
+          "desc": "Mã F6 | Màu đen sang trọng | Công suất 1400W tiết kiệm điện năng | Thiết kế tay cầm gấp gọn, độ ồn thấp chuẩn khách sạn",
           "images": [
-            "ecovina_images/photos/honeyson_f6.png"
+            "ecovina_images/photos/honeyson_f6.png",
+            "ecovina_images/pages/page_08.jpg"
           ]
-        }
-      ],
-      "highlights": [
-        "Thiết kế gấp gọn tiện sử dụng trong phòng khách sạn",
-        "Đầu nắp tròn tháo rời được",
-        "Chất liệu Nhựa ABS cao cấp, không mùi",
-        "Bảo hành 12 tháng"
-      ],
-      "contact": "Liên hệ để đặt số lượng và được hỗ trợ lắp đặt."
-    }
-  },
-  {
-    "id": "may-say-toc-yigao",
-    "name": "Máy Sấy Tóc Gắn Tường Yigao YG313D",
-    "category": "thiet-bi",
-    "categoryLabel": "Thiết bị phòng",
-    "image": "ecovina_images/pages/page_09.jpg",
-    "shortDesc": "Thiết kế treo tường gọn gàng – 1000W, 220–240V. Bảo hành 12 tháng.",
-    "features": [
-      "Gắn tường",
-      "1000W",
-      "Màu trắng"
-    ],
-    "details": {
-      "intro": "Máy sấy tóc gắn tường chuyên dụng cho phòng tắm khách sạn – tiết kiệm không gian, thẩm mỹ cao.",
-      "products": [
+        },
         {
-          "name": "Yigao YG313D",
-          "desc": "Mã: YG313D | Công suất: 1000W | Điện áp: 220–240V | KT: L15.5×W9.1×H21cm | 2 mức nhiệt | ABS cao cấp, không mùi | Không có ổ cắm phụ | Ổ cắm 2 chấu | Bảo hành 12 tháng",
+          "name": "Máy Sấy Tóc Gắn Tường Yigao YG313D (1000W)",
+          "desc": "Mã YG313D | Màu trắng tinh tế | Công suất 1000W | Thiết kế đế gắn tường cố định chống trộm, tự ngắt khi gác máy vào đế, có ổ cắm cạo râu tiện lợi",
           "images": [
-            "ecovina_images/photos/yigao_yg313d.png"
+            "ecovina_images/photos/yigao_yg313d.png",
+            "ecovina_images/photos/yigao_context.png",
+            "ecovina_images/pages/page_09.jpg"
           ]
         }
       ],
       "highlights": [
-        "Thiết kế treo tường gọn gàng, phù hợp phòng tắm khách sạn",
-        "Điều chỉnh nhiệt độ 2 mức",
-        "Chất liệu Nhựa ABS cao cấp, không mùi",
-        "Không có ổ cắm phụ – an toàn hơn",
-        "Bảo hành 12 tháng"
-      ],
-      "contact": "Liên hệ để tư vấn số lượng và hỗ trợ lắp đặt gắn tường."
+        "Chất liệu nhựa ABS chống cháy an toàn tuyệt đối",
+        "Động cơ êm ái, giảm thiểu tiếng ồn buồng phòng",
+        "Đa dạng phương án: Gấp gọn trong ngăn kéo hoặc Gắn tường nhà tắm",
+        "Chính sách bảo hành 12 tháng 1 đổi 1 lỗi nhà sản xuất"
+      ]
     }
   },
   {
@@ -762,6 +740,49 @@
     }
   },
   {
+    "id": "binh-resin-cao-cap",
+    "name": "Bình Resin & Phụ Kiện Phòng Tắm",
+    "category": "gom-su",
+    "categoryLabel": "Resin cao cấp",
+    "image": "ecovina_images/pages/page_18.jpg",
+    "shortDesc": "Bộ bình đựng dung dịch và khay phụ kiện chất liệu Polyresin chống vỡ sang trọng.",
+    "features": [
+      "Nhựa Polyresin",
+      "Chống vỡ, chống thấm",
+      "Vân đá & men sứ",
+      "In logo thương hiệu"
+    ],
+    "details": {
+      "intro": "Bộ phụ kiện phòng tắm Resin đúc nguyên khối chống va đập, chống thấm nước tuyệt đối. Phù hợp các khách sạn 4-5 sao và resort cao cấp ven biển.",
+      "products": [
+        {
+          "name": "Bộ Bình & Khay Resin Trắng Sứ Cao Cấp",
+          "desc": "Chất liệu Polyresin trắng sứ ngọc | Gồm bình xịt xà phòng vòi pump mạ crom, cốc đánh răng, đĩa xà bông, khay để đồ Amenities",
+          "images": [
+            "ecovina_images/photos/resin_trang_su.png",
+            "ecovina_images/pages/page_18.jpg",
+            "ecovina_images/pages/page_19.jpg"
+          ]
+        },
+        {
+          "name": "Bộ Bình & Khay Resin Xám Khói Vân Đá",
+          "desc": "Chất liệu Polyresin màu xám khói vân đá cẩm thạch | Bề mặt nhám mờ cao cấp, chống trơn trượt và không để lại dấu vân tay",
+          "images": [
+            "ecovina_images/photos/resin_xam_khoi.png",
+            "ecovina_images/pages/page_18.jpg",
+            "ecovina_images/pages/page_19.jpg"
+          ]
+        }
+      ],
+      "highlights": [
+        "Vật liệu Polyresin cao cấp bền bỉ không lo rơi vỡ",
+        "Kháng nước, kháng ẩm mốc và dễ dàng lau chùi",
+        "Thiết kế đồng bộ đẳng cấp 5 sao",
+        "Hỗ trợ khắc/in logo thương hiệu riêng"
+      ]
+    }
+  },
+  {
     "id": "khay-da-khach-san",
     "name": "Bộ Khay Da Khách Sạn",
     "category": "gom-su",
@@ -882,116 +903,44 @@
     }
   },
   {
-    "id": "thung-rac-khach-san",
-    "name": "Thùng Rác Khách Sạn Cao Cấp",
-    "category": "gian-phong",
-    "categoryLabel": "Vận hành phòng",
-    "image": "ecovina_images/pages/page_29.jpg",
-    "shortDesc": "Inox 201, thép tĩnh điện, da nhân tạo – 10L, in logo theo yêu cầu.",
+    "id": "ket-sat-khach-san",
+    "name": "Két Sắt Khách Sạn Nanohome",
+    "category": "thiet-bi",
+    "categoryLabel": "Két sắt điện tử",
+    "image": "ecovina_images/pages/page_24.jpg",
+    "shortDesc": "Két sắt mini mã số điện tử Nanohome an toàn tuyệt đối cho khách sạn, resort.",
     "features": [
-      "Inox 201",
-      "Da nhân tạo",
-      "In logo"
+      "Nanohome",
+      "Khóa số điện tử LED",
+      "Thân thép dày 4mm",
+      "Bảo hành 12 tháng"
     ],
     "details": {
-      "intro": "Thùng rác khách sạn cao cấp – đa dạng chất liệu, phù hợp từng phân khúc và phong cách nội thất.",
+      "intro": "Dòng két sắt khách sạn chuyên dụng Nanohome thiết kế lắp âm tủ quần áo. Sử dụng khóa số điện tử thông minh kết hợp chìa khóa khẩn cấp giải cứu Master Key.",
       "products": [
         {
-          "name": "Thùng Rác Nắp Bập Bênh Trắng (Inox 201)",
-          "desc": "Chất liệu: Inox 201 | KT: φ25×(H)30cm | Dung tích: 10L | Màu bạc sang trọng | Mẫu trơn không in logo",
+          "name": "Két Sắt Mini Điện Tử Nanohome FD-2042G",
+          "desc": "Mã FD-2042G | Màu Đen | Kích thước: 42 x 37 x 20 cm | Độ dày thân két: 1.2 mm, cửa két: 4.0 mm | Khối lượng: 8.8 kg | Màn hình LED phím bấm số bảo mật cao",
           "images": [
-            "ecovina_images/photos/thungrac_napbapbenh_trang.png"
+            "ecovina_images/photos/ketsat_fd2042g.png",
+            "ecovina_images/pages/page_24.jpg"
           ]
         },
         {
-          "name": "Thùng Rác Nắp Bập Bênh Trắng In Logo (Inox 201)",
-          "desc": "Chất liệu: Inox 201 | KT: φ25×(H)30cm | Dung tích: 10L | Màu bạc sang trọng | In logo khách sạn theo yêu cầu",
+          "name": "Két Sắt Mini Nanohome FD-1935L",
+          "desc": "Mã FD-1935L | Màu Đen | Kích thước: 35.5 x 26 x 19 cm | Độ dày thân két: 1.5 mm, cửa két: 4.0 mm | Khối lượng: 7.3 kg | Mở két bằng 2 cách: Mật khẩu số hoặc chìa khóa cơ",
           "images": [
-            "ecovina_images/photos/thungrac_napbapbenh_trang_inlogo.png"
-          ]
-        },
-        {
-          "name": "Thùng Rác Nắp Bập Bênh Đen",
-          "desc": "Chất liệu: Thép sơn tĩnh điện chống gỉ | KT: φ25×(H)30cm | Dung tích: 10L | Màu đen, in logo theo yêu cầu",
-          "images": [
-            "ecovina_images/photos/thungrac_napbapbenh_den.png"
-          ]
-        },
-        {
-          "name": "Thùng Rác 2 Lớp Thép Tĩnh Điện",
-          "desc": "Thân bằng thép sơn tĩnh điện, viền inox | KT: 2(Ø)22.5×(H)26.5cm | Dung tích: 10L | Kiểu dáng tròn, không có nắp | Màu đen",
-          "images": [
-            "ecovina_images/photos/thungrac_2lop_thep.png"
-          ]
-        },
-        {
-          "name": "Thùng Rác 2 Lớp Bằng Da",
-          "desc": "Da nhân tạo, viền inox | KT: 2(Ø)23×(H)27cm | Dung tích: 10L | Kiểu dáng tròn, không có nắp | Màu đen sẵn kho, màu khác order",
-          "images": [
-            "ecovina_images/photos/thungrac_2lop_da.png"
+            "ecovina_images/photos/ketsat_fd1935l.png",
+            "ecovina_images/pages/page_24.jpg"
           ]
         }
       ],
       "highlights": [
-        "Đa dạng chất liệu: Inox 201, thép tĩnh điện, da nhân tạo",
-        "Dung tích 10L, phù hợp phòng khách sạn",
-        "In logo theo yêu cầu riêng",
-        "Thiết kế sang trọng, phù hợp nội thất cao cấp"
-      ],
-      "contact": "Liên hệ để chọn mẫu và báo giá in logo."
-    }
-  },
-  {
-    "id": "chan-ga-goi",
-    "name": "Chăn Ga Gối Khách Sạn",
-    "category": "chan-ga",
-    "categoryLabel": "Chăn ga gối",
-    "image": "ecovina_images/pages/page_48.jpg",
-    "shortDesc": "Vải T300/T350/T400 – 100% Cotton hoặc Cotton pha, phù hợp 3–5 sao.",
-    "features": [
-      "100% Cotton",
-      "3–5 sao",
-      "Thoáng mát"
-    ],
-    "details": {
-      "intro": "Bộ chăn ga gối khách sạn cao cấp – nhiều lựa chọn chất liệu phù hợp từng phân khúc khách sạn từ 3 đến 5 sao.",
-      "products": [
-        {
-          "name": "Vải T400 Trơn – 100% Cotton",
-          "desc": "Mật độ 388 sợi/inch | Cỡ sợi 80s×60s | Thoáng mát, mềm mịn, thấm hút tốt | Phù hợp khách sạn 4–5 sao",
-          "images": [
-            "ecovina_images/photos/changa_t400_tron.png"
-          ]
-        },
-        {
-          "name": "Vải T350 Trơn/Kẻ – 100% Cotton",
-          "desc": "Mật độ 350 sợi/inch | Cỡ sợi 60s×60s | Thoáng mát, mềm mịn, an toàn với làn da | Phù hợp khách sạn 3–5 sao",
-          "images": [
-            "ecovina_images/photos/changa_t350_tron_ke.png"
-          ]
-        },
-        {
-          "name": "Vải T300 Trơn/Kẻ – 100% Cotton",
-          "desc": "Mật độ 293 sợi/inch | Cỡ sợi 60s×40s | Thoáng mát, mềm mịn, an toàn với làn da | Phù hợp khách sạn 3–5 sao",
-          "images": [
-            "ecovina_images/photos/changa_t300_tron_ke.png"
-          ]
-        },
-        {
-          "name": "Vải T300 Trơn/Kẻ – 80% Cotton + 20% Polyester",
-          "desc": "Mật độ 301 sợi/inch | Cỡ sợi 60s×40s | Mềm mại, thoáng mát, hút ẩm nhanh | Phù hợp khách sạn 3–5 sao",
-          "images": [
-            "ecovina_images/photos/changa_t300_80_20.png"
-          ]
-        }
-      ],
-      "highlights": [
-        "100% Cotton hoặc Cotton pha cao cấp",
-        "Thoáng mát, mềm mịn, thấm hút tốt, an toàn với làn da",
-        "Nhiều lựa chọn phù hợp khách sạn 3–5 sao",
-        "Trắng trơn hoặc kẻ sọc 3cm theo yêu cầu"
-      ],
-      "contact": "Liên hệ để tư vấn chất liệu phù hợp với phân khúc khách sạn."
+        "Cửa thép đặc dày 4.0mm chống cạy phá",
+        "Hệ thống khóa điện tử tự khóa khi nhập sai 3 lần",
+        "Có chìa khóa giải cứu Master cho khách sạn",
+        "Lỗ bắt vít cố định vào tủ hoặc tường chắc chắn"
+      ]
     }
   },
   {
@@ -1152,87 +1101,63 @@
     }
   },
   {
-    "id": "ket-sat-khach-san",
-    "name": "Két Sắt Khách Sạn Nanohome",
-    "category": "thiet-bi",
-    "categoryLabel": "Két sắt điện tử",
-    "image": "ecovina_images/pages/page_24.jpg",
-    "shortDesc": "Két sắt mini mã số điện tử Nanohome an toàn tuyệt đối cho khách sạn, resort.",
+    "id": "thung-rac-khach-san",
+    "name": "Thùng Rác Khách Sạn Cao Cấp",
+    "category": "gian-phong",
+    "categoryLabel": "Vận hành phòng",
+    "image": "ecovina_images/pages/page_29.jpg",
+    "shortDesc": "Inox 201, thép tĩnh điện, da nhân tạo – 10L, in logo theo yêu cầu.",
     "features": [
-      "Nanohome",
-      "Khóa số điện tử LED",
-      "Thân thép dày 4mm",
-      "Bảo hành 12 tháng"
+      "Inox 201",
+      "Da nhân tạo",
+      "In logo"
     ],
     "details": {
-      "intro": "Dòng két sắt khách sạn chuyên dụng Nanohome thiết kế lắp âm tủ quần áo. Sử dụng khóa số điện tử thông minh kết hợp chìa khóa khẩn cấp giải cứu Master Key.",
+      "intro": "Thùng rác khách sạn cao cấp – đa dạng chất liệu, phù hợp từng phân khúc và phong cách nội thất.",
       "products": [
         {
-          "name": "Két Sắt Mini Điện Tử Nanohome FD-2042G",
-          "desc": "Mã FD-2042G | Màu Đen | Kích thước: 42 x 37 x 20 cm | Độ dày thân két: 1.2 mm, cửa két: 4.0 mm | Khối lượng: 8.8 kg | Màn hình LED phím bấm số bảo mật cao",
+          "name": "Thùng Rác Nắp Bập Bênh Trắng (Inox 201)",
+          "desc": "Chất liệu: Inox 201 | KT: φ25×(H)30cm | Dung tích: 10L | Màu bạc sang trọng | Mẫu trơn không in logo",
           "images": [
-            "ecovina_images/photos/ketsat_fd2042g.png",
-            "ecovina_images/pages/page_24.jpg"
+            "ecovina_images/photos/thungrac_napbapbenh_trang.png"
           ]
         },
         {
-          "name": "Két Sắt Mini Nanohome FD-1935L",
-          "desc": "Mã FD-1935L | Màu Đen | Kích thước: 35.5 x 26 x 19 cm | Độ dày thân két: 1.5 mm, cửa két: 4.0 mm | Khối lượng: 7.3 kg | Mở két bằng 2 cách: Mật khẩu số hoặc chìa khóa cơ",
+          "name": "Thùng Rác Nắp Bập Bênh Trắng In Logo (Inox 201)",
+          "desc": "Chất liệu: Inox 201 | KT: φ25×(H)30cm | Dung tích: 10L | Màu bạc sang trọng | In logo khách sạn theo yêu cầu",
           "images": [
-            "ecovina_images/photos/ketsat_fd1935l.png",
-            "ecovina_images/pages/page_24.jpg"
+            "ecovina_images/photos/thungrac_napbapbenh_trang_inlogo.png"
+          ]
+        },
+        {
+          "name": "Thùng Rác Nắp Bập Bênh Đen",
+          "desc": "Chất liệu: Thép sơn tĩnh điện chống gỉ | KT: φ25×(H)30cm | Dung tích: 10L | Màu đen, in logo theo yêu cầu",
+          "images": [
+            "ecovina_images/photos/thungrac_napbapbenh_den.png"
+          ]
+        },
+        {
+          "name": "Thùng Rác 2 Lớp Thép Tĩnh Điện",
+          "desc": "Thân bằng thép sơn tĩnh điện, viền inox | KT: 2(Ø)22.5×(H)26.5cm | Dung tích: 10L | Kiểu dáng tròn, không có nắp | Màu đen",
+          "images": [
+            "ecovina_images/photos/thungrac_2lop_thep.png"
+          ]
+        },
+        {
+          "name": "Thùng Rác 2 Lớp Bằng Da",
+          "desc": "Da nhân tạo, viền inox | KT: 2(Ø)23×(H)27cm | Dung tích: 10L | Kiểu dáng tròn, không có nắp | Màu đen sẵn kho, màu khác order",
+          "images": [
+            "ecovina_images/photos/thungrac_2lop_da.png"
           ]
         }
       ],
       "highlights": [
-        "Cửa thép đặc dày 4.0mm chống cạy phá",
-        "Hệ thống khóa điện tử tự khóa khi nhập sai 3 lần",
-        "Có chìa khóa giải cứu Master cho khách sạn",
-        "Lỗ bắt vít cố định vào tủ hoặc tường chắc chắn"
-      ]
-    }
-  },
-  {
-    "id": "binh-resin-cao-cap",
-    "name": "Bình Resin & Phụ Kiện Phòng Tắm",
-    "category": "gom-su",
-    "categoryLabel": "Resin cao cấp",
-    "image": "ecovina_images/pages/page_18.jpg",
-    "shortDesc": "Bộ bình đựng dung dịch và khay phụ kiện chất liệu Polyresin chống vỡ sang trọng.",
-    "features": [
-      "Nhựa Polyresin",
-      "Chống vỡ, chống thấm",
-      "Vân đá & men sứ",
-      "In logo thương hiệu"
-    ],
-    "details": {
-      "intro": "Bộ phụ kiện phòng tắm Resin đúc nguyên khối chống va đập, chống thấm nước tuyệt đối. Phù hợp các khách sạn 4-5 sao và resort cao cấp ven biển.",
-      "products": [
-        {
-          "name": "Bộ Bình & Khay Resin Trắng Sứ Cao Cấp",
-          "desc": "Chất liệu Polyresin trắng sứ ngọc | Gồm bình xịt xà phòng vòi pump mạ crom, cốc đánh răng, đĩa xà bông, khay để đồ Amenities",
-          "images": [
-            "ecovina_images/photos/resin_trang_su.png",
-            "ecovina_images/pages/page_18.jpg",
-            "ecovina_images/pages/page_19.jpg"
-          ]
-        },
-        {
-          "name": "Bộ Bình & Khay Resin Xám Khói Vân Đá",
-          "desc": "Chất liệu Polyresin màu xám khói vân đá cẩm thạch | Bề mặt nhám mờ cao cấp, chống trơn trượt và không để lại dấu vân tay",
-          "images": [
-            "ecovina_images/photos/resin_xam_khoi.png",
-            "ecovina_images/pages/page_18.jpg",
-            "ecovina_images/pages/page_19.jpg"
-          ]
-        }
+        "Đa dạng chất liệu: Inox 201, thép tĩnh điện, da nhân tạo",
+        "Dung tích 10L, phù hợp phòng khách sạn",
+        "In logo theo yêu cầu riêng",
+        "Thiết kế sang trọng, phù hợp nội thất cao cấp"
       ],
-      "highlights": [
-        "Vật liệu Polyresin cao cấp bền bỉ không lo rơi vỡ",
-        "Kháng nước, kháng ẩm mốc và dễ dàng lau chùi",
-        "Thiết kế đồng bộ đẳng cấp 5 sao",
-        "Hỗ trợ khắc/in logo thương hiệu riêng"
-      ]
+      "contact": "Liên hệ để chọn mẫu và báo giá in logo."
     }
   },
   {
@@ -1396,6 +1321,59 @@
         "Nâng đỡ êm ái chuẩn giấc ngủ khách sạn 5 sao",
         "Sản xuất trực tiếp tại xưởng theo kích thước yêu cầu"
       ]
+    }
+  },
+  {
+    "id": "chan-ga-goi",
+    "name": "Chăn Ga Gối Khách Sạn",
+    "category": "chan-ga",
+    "categoryLabel": "Chăn ga gối",
+    "image": "ecovina_images/pages/page_48.jpg",
+    "shortDesc": "Vải T300/T350/T400 – 100% Cotton hoặc Cotton pha, phù hợp 3–5 sao.",
+    "features": [
+      "100% Cotton",
+      "3–5 sao",
+      "Thoáng mát"
+    ],
+    "details": {
+      "intro": "Bộ chăn ga gối khách sạn cao cấp – nhiều lựa chọn chất liệu phù hợp từng phân khúc khách sạn từ 3 đến 5 sao.",
+      "products": [
+        {
+          "name": "Vải T400 Trơn – 100% Cotton",
+          "desc": "Mật độ 388 sợi/inch | Cỡ sợi 80s×60s | Thoáng mát, mềm mịn, thấm hút tốt | Phù hợp khách sạn 4–5 sao",
+          "images": [
+            "ecovina_images/photos/changa_t400_tron.png"
+          ]
+        },
+        {
+          "name": "Vải T350 Trơn/Kẻ – 100% Cotton",
+          "desc": "Mật độ 350 sợi/inch | Cỡ sợi 60s×60s | Thoáng mát, mềm mịn, an toàn với làn da | Phù hợp khách sạn 3–5 sao",
+          "images": [
+            "ecovina_images/photos/changa_t350_tron_ke.png"
+          ]
+        },
+        {
+          "name": "Vải T300 Trơn/Kẻ – 100% Cotton",
+          "desc": "Mật độ 293 sợi/inch | Cỡ sợi 60s×40s | Thoáng mát, mềm mịn, an toàn với làn da | Phù hợp khách sạn 3–5 sao",
+          "images": [
+            "ecovina_images/photos/changa_t300_tron_ke.png"
+          ]
+        },
+        {
+          "name": "Vải T300 Trơn/Kẻ – 80% Cotton + 20% Polyester",
+          "desc": "Mật độ 301 sợi/inch | Cỡ sợi 60s×40s | Mềm mại, thoáng mát, hút ẩm nhanh | Phù hợp khách sạn 3–5 sao",
+          "images": [
+            "ecovina_images/photos/changa_t300_80_20.png"
+          ]
+        }
+      ],
+      "highlights": [
+        "100% Cotton hoặc Cotton pha cao cấp",
+        "Thoáng mát, mềm mịn, thấm hút tốt, an toàn với làn da",
+        "Nhiều lựa chọn phù hợp khách sạn 3–5 sao",
+        "Trắng trơn hoặc kẻ sọc 3cm theo yêu cầu"
+      ],
+      "contact": "Liên hệ để tư vấn chất liệu phù hợp với phân khúc khách sạn."
     }
   }
 ]
