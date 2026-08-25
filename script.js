@@ -310,17 +310,18 @@ function updateSlideView(idx) {
     if (itemImages.length > 1) {
       galleryStrip.style.display = 'flex';
       galleryStrip.innerHTML = itemImages.map(function (imgSrc, gIdx) {
-        return '<button class="gallery-thumb' + (gIdx === 0 ? ' active' : '') + '" data-img="' + imgSrc + '">' +
+        return '<button class="gallery-thumb' + (gIdx === 0 ? ' active' : '') + '" data-img="' + imgSrc + '" title="Xem góc chụp ' + (gIdx + 1) + '">' +
           '<img src="' + imgSrc + '" alt="Góc chụp ' + (gIdx + 1) + '"/>' +
         '</button>';
       }).join('');
 
       galleryStrip.querySelectorAll('.gallery-thumb').forEach(function (thumb) {
         thumb.addEventListener('click', function (e) {
+          e.preventDefault();
           e.stopPropagation();
           var chosenImg = thumb.getAttribute('data-img');
           if (mainImg) {
-            mainImg.style.opacity = '0.4';
+            mainImg.style.opacity = '0.3';
             mainImg.src = chosenImg;
             mainImg.onload = function () { mainImg.style.opacity = '1'; };
           }
