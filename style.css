@@ -1061,6 +1061,12 @@ ul { list-style: none; }
   margin-bottom: 12px;
 }
 
+.contact-logo-img {
+  height: 52px;
+  width: auto;
+  object-fit: contain;
+}
+
 .contact-brand-name {
   font-size: 1.25rem;
   font-weight: 800;
