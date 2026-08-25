@@ -52,6 +52,7 @@ var allProducts = [];
 var currentCat = 'all';
 
 function renderProductCard(product) {
+  var prodImg = (product.images && product.images.length > 0) ? product.images[0] : (product.image || '');
   var imgStyle = product.imageStyle ? ' style="' + product.imageStyle + '"' : '';
   var countBadge = (product.details && product.details.products)
     ? '<span class="prod-item-count">' + product.details.products.length + ' mẫu</span>'
@@ -60,7 +61,7 @@ function renderProductCard(product) {
   return (
     '<div class="product-card" data-cat="' + product.category + '" data-id="' + product.id + '" tabindex="0" role="button" aria-label="Xem chi tiết ' + product.name + '">' +
       '<div class="prod-img-wrap">' +
-        '<img src="' + product.image + '" alt="' + product.name + '" loading="lazy"' + imgStyle + '/>' +
+        '<img src="' + prodImg + '" alt="' + product.name + '" loading="lazy"' + imgStyle + '/>' +
         '<div class="prod-cat-badge">' + product.categoryLabel + '</div>' +
         countBadge +
         '<div class="prod-view-hint">🔍 Xem ' + (product.details ? product.details.products.length : '') + ' mẫu sản phẩm (Slide) →</div>' +
@@ -272,8 +273,9 @@ function updateSlideView(idx) {
   var items = activeProduct.details.products;
   var total = items.length;
   var item = items[idx] || { name: activeProduct.name, desc: '' };
-  var itemImage = item.image || activeProduct.image;
-  var itemImages = item.images && item.images.length > 0 ? item.images : [itemImage];
+  var defaultProdImg = (activeProduct.images && activeProduct.images.length > 0) ? activeProduct.images[0] : (activeProduct.image || '');
+  var itemImages = (item.images && item.images.length > 0) ? item.images : (item.image ? [item.image] : [defaultProdImg]);
+  var itemImage = itemImages[0];
 
   // 1. Update text & numbers
   var curNumEl = document.getElementById('slideCurNum');
